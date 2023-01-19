@@ -1,17 +1,15 @@
-v0.1:
+v1.0:
 
 AS A DISCLAIMER:
-	This mod is basically just throwing all my ideas at the wall, some things might not work, some things might not be balanced, some things might not be fun. I am always welcoming to 
-	criticism and new ideas from others, just send me a message on Discord (Thecompanionnoob#6745).
+This mod is basically just throwing all my ideas at the wall, some things might not work, some things might not be balanced, some things might not be fun. I am always welcoming to criticism and new ideas from others, just send me a message on Discord (Thecompanionnoob#6745).
 
-	This changelog is incomplete, know that there are several changes unlisted (some changes may be wrong, if i forgot to change it here when i edited the change).
+This changelog is incomplete, know that there are several changes unlisted (some changes may be wrong, if i forgot to change it here when i edited the change).
 
 Because this is probably going to be the most opened file in the mod other than the readme, i would also like to outline my general design philosophy and purpose for this mod here:
-	This mod is a rebalancing and performance focused mod made for multiplayer but playable in singleplayer. The ultimate goal is to make every country on the map by default either
-	no longer exist, or have content with interesting and varied gameplay, and many different ways to play each nation, while also improving the game's performance and adding quality
-	of life features while maintaining reasonable balance. I do not expect this release to meet all of those goals, but only then will I feel this mod is fully complete.
 
-	I had to replace the localisation files midway through development, PLEASE let me know if you find any localisation issues. (such as missing localisation, question marks in the names of things, etc.)
+This mod is a rebalancing and performance focused mod made for multiplayer but playable in singleplayer. The ultimate goal is to make every country on the map by default either no longer exist, or have content with interesting and varied gameplay, and many different ways to play each nation, while also improving the game's performance and adding quality of life features while maintaining reasonable balance. I do not expect this release to meet all of those goals, but only then will I feel this mod is fully complete.
+
+I had to replace the localisation files midway through development, PLEASE let me know if you find any localisation issues. (such as missing localisation, question marks in the names of things, etc.)
 
 *Misc changes
 	*Added a host nation in the place of sikkim in the himalayas called "hostland"

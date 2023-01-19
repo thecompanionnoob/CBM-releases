@@ -21,12 +21,14 @@ in order of importance/playableness
 19.serbia
 20.romania
 21.mexico
-22.africa (north african nation)
-23.philippines
-24.USCA
-25.colombia
-26.pakistan
-27.haiti
-28.thailand
-29.canada
-30.australia
+22.south africa
+23.africa (north african nation)
+24.ethiopia
+25.philippines
+26.USCA
+27.colombia
+28.pakistan
+29.haiti
+30.thailand
+31.canada
+32.australia
