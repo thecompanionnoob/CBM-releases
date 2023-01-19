@@ -1,7 +1,0 @@
-name = "Companion Balance Mod v1.0"
-path = "mod/CBM v1.0"
-user_dir = "CBM"
-replace_path = "events"
-replace_path = "history"
-replace_path = "common"
-replace_path = "decisions"
