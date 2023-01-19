@@ -16,10 +16,7 @@ How to install a Victoria 2 mod on windows (verified for windows 10):
 
 	8. there should now be a folder there with the title of the mod you downloaded, open it.
 
-	9. inside this folder should be another folder with the name of the mod and a .mod file, put both of those
-		in the mod folder directly and delete the folder they were originally in (deleting the folder is not strictly necessary, but i do it for organizational purposes.)
-
-	now the mod should appear on your mods list when starting the game and work.
+	9. inside this folder should be another folder with the name of the mod and a .mod file, put both of those in the mod folder directly and delete the folder they were originally in (deleting the folder is not strictly necessary, but i do it for organizational purposes.) now the mod should appear on your mods list when starting the game and work.
 
 Tips for getting the right checksum:
 	1. ensure that you have the correct version of the mod downloaded.
