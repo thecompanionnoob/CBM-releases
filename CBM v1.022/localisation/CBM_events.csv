@@ -37,3 +37,6 @@ EVTNAME69010;Russian Expansionism;;;;;;;;;x;;;;
 EVTDESC69010;Our expansionism has been known for many years, however we are now presented with a dillema. Do we focus on claiming the polish lands and people, or focus on Central Asia & the Caucuses?;
 EVTOPTA69010;We will focus on the East. §G(Grants Caucasian & Kazakh as accepted by decision);
 EVTOPTB69010;We will focus on the West. §G(Grants Polish as accepted by decision);
+EVTNAME69011;Uncivilized Mobilization;;;;;;;;;x;;;;
+EVTDESC69011;Uncivilized nations can mobilize in this mod if they have the correct national value (by default you can).;;;;;;;;;x;;;;
+EVTOPTA69011;Okay;;;;;;;;;x;;;;

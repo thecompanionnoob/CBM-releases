@@ -1,4 +1,5 @@
 political_decisions = {
+				### WEST ROUTE ###
 	TUR_reclaim_greece = {
 		potential = {
 			tag = TUR
@@ -42,6 +43,7 @@ political_decisions = {
 			set_country_flag = bulgaria_reclaimed
 		}
 	}
+				### SOUTH/EAST ROUTE ###
 	TUR_reclaim_arabia = {
 		potential = {
 			tag = TUR

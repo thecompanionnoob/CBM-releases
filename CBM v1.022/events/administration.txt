@@ -7,12 +7,31 @@ country_event = { #tech school explanation
 		NOT = {
 			has_country_flag = tech_school_explained
 		}
+		ai = no
 	}
 
 	option = {
 		name = "EVTOPTA69001"
 		prestige = 1
 		set_country_flag = tech_school_explained
+	}
+}
+country_event = { #unciv can mobilize explanation
+	id = 69011
+	title = "EVTNAME69011"
+	desc = "EVTDESC69011"
+
+	trigger = {
+		NOT = {
+			has_country_flag = unciv_mobilize_explained
+		}
+		civilized = no
+		ai = no
+	}
+
+	option = {
+		name = "EVTOPTA69011"
+		set_country_flag = unciv_mobilize_explained
 	}
 }
 country_event = { #unoccupy request for when war is surrendered
