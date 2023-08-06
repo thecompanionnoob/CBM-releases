@@ -1,34 +1,44 @@
-in order of importance/playableness
-1.uk
-2.prussia
-3.russia
-4.france
-5.austria
-6.usa
-7.china (any of the three, preferably all 3 would be rostered)
-8.japan
-9.sardinia-piedmont/two sicilies (and/or)
-10.scandinavia
-11.spain
-12.belgium
-13.netherlands
--------------------------------------------- considerable gap
-14.egypt
-15.persia
-16.portugal
-17.greece
-18.bulgaria
-19.serbia
-20.romania
-21.mexico
-22.south africa
-23.africa (north african nation)
-24.ethiopia
-25.philippines
-26.USCA
-27.colombia
-28.pakistan
-29.haiti
-30.thailand
-31.canada
-32.australia
+=== MAJORS ===
+UK
+Prussia
+France
+Austria
+Russia
+USA
+Japan
+Sardinia Piedmont / Two Sicilies
+Ottomans
+
+Chinese formation contenders:
+
+Mongolia
+Nanjing
+Yunnan
+
+=== MINORS ===
+
+Scandinavia
+Netherlands
+Spain
+Belgium
+Portugal
+Greece
+Bulgaria
+Romania
+Serbia
+Brazil
+Peru
+Colombia
+Bolivia
+Mexico
+USCA
+South Africa
+Ethiopia
+Africa
+Egypt
+Persia
+Pakistan
+Philippines
+Argentina
+
+Australia, Siam, and Haiti are also playable but kinda trash
