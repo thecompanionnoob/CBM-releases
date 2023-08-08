@@ -14,7 +14,7 @@ BALANCE CHANGES:
 *Changed the generic liberal party to be laissez faire.
 
 MECHANICS CHANGES:
-*National ideas have been added. They are decisions that give permanent buffs which may be picked every 15 years. (perhaps rebalance these)
+*National ideas have been added. They are decisions that give permanent buffs which may be picked every 15 years.
 *Tech school decisions now start a 35 year timer to be picked again rather than being permanent (The starting event has been changed to show this).
 *Changed Tech schools so that they give 15% bonus to one tech group, and traditional academia now gives a 5% boost to all tech groups.
 *There is now a base national value ("No national value") which grants 3% mobilization size and nothing else.
