@@ -1,0 +1,13 @@
+1.02:
+*temporarily removed tanks & planes until they are rebalanced with v1.1
+*removed TONS of unused tags
+*removed liberal revolution events
+*reduced militancy growth
+*localisation added for egyptian decisions
+*added a decision for Hostland to ally all countries
+*removed russian influence in Persia
+*added OOB for pakistan
+*edited UK OOB - Moved troops from india to england
+*stabhit peace requests no longer exist
+*chinese pop emigration debuff is less extreme but it is also extended to indian pops
+*removed unintended turkish cores in armenia and syria

@@ -9,3 +9,4 @@ Don't know who made the grants system originally, but i certantly didn't.
 Took the idea for buffing the AI from victoria universalis by KevinG, alongside a few other mechanics.
 Colored Generals are from Victoria Universalis
 Thanks to ThatDamnGringoFromTheBank for adding OOB for Balkan minors.
+Province selector implementation is somewhat based on Victoria Universalis

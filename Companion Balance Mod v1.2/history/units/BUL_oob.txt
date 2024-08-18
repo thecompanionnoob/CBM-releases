@@ -1,0 +1,55 @@
+
+army = {
+	name = "1st Army of Bulgaria"
+	location = 809
+	regiment = {
+		name = "1. Infantry"
+		type = hussar
+		home = 809
+	}
+	regiment = {
+		name = "2. Infantry"
+		type = infantry
+		home = 809
+	}
+	regiment = {
+		name = "3. Infantry"
+		type = infantry
+		home = 817
+	}
+	regiment = {
+		name = "4. Infantry"
+		type = infantry
+		home = 806
+	}
+	regiment = {
+		name = "5. Infantry"
+		type = infantry
+		home = 807
+	}
+	regiment = {
+		name = "6. Infantry"
+		type = artillery
+		home = 810
+	}
+	regiment = {
+		name = "7. Infantry"
+		type = artillery
+		home = 812
+	}
+	regiment = {
+		name = "8. Infantry"
+		type = artillery
+		home = 811
+	}
+	regiment = {
+		name = "9. Infantry"
+		type = artillery
+		home = 814
+	}
+	regiment = {
+		name = "10. Infantry"
+		type = artillery
+		home = 817
+	}
+}

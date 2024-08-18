@@ -1,0 +1,4 @@
+1.023:
+*Made all types of cavalry scale less than infantry with tech
+*Moved artillery stat buffs from attack inventions to artillery tech
+*Added buffed artillery defense from tech and nerfed artillery attack from tech

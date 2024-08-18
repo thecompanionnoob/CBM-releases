@@ -1,3 +1,0 @@
-v1.01:
-*Cores are no longer removed by the liberate country casus belli
-*Potential fix for first startup crash

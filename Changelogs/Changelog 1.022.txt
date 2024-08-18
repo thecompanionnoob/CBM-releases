@@ -1,6 +1,0 @@
-1.022
-*added event to let uncivs know they can mobilize & made the starting events only fire for players (and consequently they can fire midway through the game if a player goes on a nation that was previously ai)
-*added machine parts factories in north rhine & south east england
-*machine parts factories require double the amount of cement & steel but require no machine parts to be built
-*"decrease relations" diplomatic interaction now reduces relations by 75 rather than 25
-*"increase relations" diplomatic interaction now increases relations by 50 rather than 15
