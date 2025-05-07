@@ -1,0 +1,12 @@
+owner = CAN
+1910.1.1 = {
+    railroad = 4
+}
+controller = CAN
+add_core = CAN
+trade_goods = fish
+life_rating = 35
+	
+		
+		
+			

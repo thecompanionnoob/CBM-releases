@@ -1,0 +1,3439 @@
+
+#Yukon Region - 12000
+#uncolonized in 1836
+#Whitehorse (4000/1000 POPS)
+6 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Dawson (4000/1000 POPS)
+7 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Ross River (4000/1000 POPS)
+8 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+}
+#Northwest Territories & Keewatin Regions - 28000
+#uncolonized in 1836
+#Fort Simpson (2400/600 POPS)
+9 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 135
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2340
+	}
+}
+#Inuvik (4000/1000 POPS)
+10 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Echo Bay (4000/1000 POPS)
+11 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Reliance (2000/500 POPS)
+12 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2025
+	}
+}
+#Fort Resolution (2000/500 POPS)
+2596 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2025
+	}
+}
+#Fort Liard (1600/400 POPS)
+2598 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+}
+#Arviat (3200/800 POPS)
+43 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 180
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3262
+	}
+}
+#Baker Lake (2000/500 POPS)
+44 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2025
+	}
+}
+#Baffin Island (4000/1000 POPS)
+45 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+}
+#Whale Cove (2800/700 POPS)
+2595 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 158
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2835
+	}
+
+}
+#British Columbia Region : 64000
+#uncolonized in 1836
+#Vancouver (12000/3000 POPS)
+13 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 338
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 675
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 12150
+	}
+
+}
+#Vancouver Island (8000/2000 POPS)
+14 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Prince Rupert (8000/2000 POPS)
+15 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Glenora (4000/1000 POPS)
+16 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Atlin (4000/1000 POPS)
+17 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Fort St John (2400/600 POPS)
+18 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 135
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2340
+	}
+}
+#Prince George (8000/2000 POPS)
+19 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Kelowna (8000/2000 POPS)
+20 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Vernon (8000/2000 POPS)
+21 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+
+}
+#Fort Nelson (1600/400 POPS)
+2629 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+}
+#Alberta Region: 64000
+#uncolonized in 1836
+#Edmonton (16000/4000 POPS)
+22 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Athabaska Landing (4800/1200 POPS)
+23 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 270
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4860
+	}
+}
+#Jasper (4000/1000 POPS)
+24 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Banff (4000/1000 POPS)
+25 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Calgary (8000/2000 POPS)
+26 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Denwood (8000/2000 POPS)
+27 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Fort MacLeod (8000/2000 POPS)
+28 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Medicine Hat (8000/2000 POPS)
+29 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+
+}
+#Fort Vermillion (3200/800 POPS)
+2597 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 180
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3218
+	}
+}
+#Saskatchewan Region : 44000
+#uncolonized in 1836
+#Regina (12000/3000 POPS)
+30 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Stanley (4000/1000 POPS)
+31 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Prince Albert (8000/2000 POPS)
+32 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Asquith (8000/2000 POPS)
+33 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Saskatoon (8000/2000 POPS)
+34 = {
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Maple Creek (4000/1000 POPS)
+35 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+}
+#Manitoba Region : 52000
+#uncolonized in 1836
+#Winnipeg (12000/3000 POPS)
+36 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Churchill (4000/1000 POPS)
+37 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Indian Lakes (4000/1000 POPS)
+38 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Norway House (8000/2000 POPS)
+39 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Dauphin (8000/2000 POPS)
+40 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Brandon (8000/2000 POPS)
+41 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Pembina (8000/2000 POPS)
+42 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+
+}
+#Ontario Region : 448000
+#uncolonized in 1836
+#Fort Severn (2800/700 POPS)
+47 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 158
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2835
+	}
+}
+#Fort Albany (6400/1600 POPS)
+48 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 158
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 360
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6480
+	}
+}
+#Dryden (12000/3000 POPS)
+49 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4095
+	}
+}
+#Thunder Bay (8000/2000 POPS)
+50 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Sault Ste Marie (8000/2000 POPS)
+51 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+}
+#Sudbury (8000/2000 POPS)
+52 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7875
+	}
+}
+#Barrie (4000/1000 POPS)
+53 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+}
+#Pickle Lake (1200/3000 POPS)
+2594 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1192
+	}
+
+}
+#Attawapiskat (5600/1600 POPS)
+2628 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 158
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 360
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6502
+	}
+
+}
+#ruled by Britain in 1836
+#Toronto (172000/43000 POPS)
+46 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 11250
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 9900
+	}
+
+	craftsmen = {
+		culture = british
+		religion = sunni
+		size = 175500
+	}
+}
+#Windsor (36000/9000 POPS)
+54 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	labourers = {
+		culture = british
+		religion = sunni
+		size = 37575
+	}
+}
+#Hamilton (68000/17000 POPS)
+55 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 4950
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1800
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 70650
+	}
+}
+#Kingston (72000/18000 POPS)
+56 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 7875
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1575
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 62662
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 1125
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 7650
+	}
+}
+#Ottawa (44000/11000 POPS)
+57 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 29475
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 16650
+	}
+
+}
+#Quebec Region : 676000
+#uncolonized in 1836
+#Nitchequon (2800/700 POPS)
+59 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 158
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2835
+	}
+
+}
+#Erik Cove (2400/600 POPS)
+2592 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 9
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 14
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 810
+	}
+
+}
+#Port Harrison (2400/600 POPS)
+2626 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 9
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 14
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 810
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+}
+#Fort Chimo (2400/600 POPS)
+2627 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 9
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 14
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 810
+	}
+}
+#Fort Rupert (2400/600 POPS)
+60 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 135
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2340
+	}
+}
+#Fort George (1600/400 POPS)
+2593 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1620
+	}
+}
+#ruled by Britain in 1836
+#58 - Montreal (248000/62000 POPS)
+58 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 562
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 22500
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 60412
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 2250
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 27000
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 3600
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 162000
+	}
+}
+#Chicoutimi (11200/2800 POPS)
+61 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 180
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3218
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 8212
+	}
+}
+#Sept-Iles (8000/2000 POPS)
+62 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 4118
+	}
+}
+#Temiscaming (16000/4000 POPS)
+63 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 68
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 338
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 675
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 12375
+	}
+}
+#Trois-Rivieres (68000/17000 POPS)
+64 = {
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 788
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 4950
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1350
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 70538
+	}
+}
+#Quebec City (188000/47000 POPS)
+65 = {
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 2250
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 22500
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 4500
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 184500
+	}
+}
+#Sherbrooke (68000/17000 POPS)
+66 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 20025
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 1125
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 3150
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 49050
+	}
+}
+#Riviere du Loup (56000/14000 POPS)
+67 = {
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 3375
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1350
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 58275
+	}
+
+}
+#New Brunswick Region : 148000
+#Ruled by Britain 1836
+#Fredericton (84000/21000 POPS)
+68 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 338
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 1238
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 3375
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 57375
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 1575
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 28800
+	}
+}
+#Bathurst (64000/16000 POPS)
+69 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 338
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	labourers = {
+		culture = british
+		religion = sunni
+		size = 50288
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 16762
+	}
+
+}
+#Prince Edward Island Region : 32000
+#Ruled by Britain 1836
+#Prince Edward Island (32000/8000 POPS)
+70 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 6750
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 28575
+	}
+}
+#Canada - Nova Scotia Region : 147000
+#Ruled by Britain 1836
+#Halifax (83000/20750 POPS)
+71 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 18000
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1800
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 65700
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 4950
+	}
+
+	labourers = {
+		culture = afro_american
+		religion = sunni
+		size = 3375
+	}
+}
+#Truro (44000/11000 POPS)
+72 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 3375
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 40838
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 4950
+	}
+}
+#Cape Breton Island (20000/5000 POPS)
+73 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 20925
+	}
+
+}
+#Newfoundland Region - 84000
+#Ruled by Britain in 1836
+#Saint John's (52000/13000 POPS)
+74 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 338
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 9000
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 12712
+	}
+
+	clergymen = {
+		culture = irish
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = irish
+		religion = sunni
+		size = 9000
+	}
+
+	farmers = {
+		culture = irish
+		religion = sunni
+		size = 31050
+	}
+}
+#Millertown (24000/6000 POPS)
+75 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 338
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 20812
+	}
+
+	clergymen = {
+		culture = irish
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = irish
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = irish
+		religion = sunni
+		size = 3600
+	}
+}
+#Hopedale (2000/500 POPS)
+76 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2025
+	}
+
+}
+#Cartwright (6000/1500 POPS)
+2625 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 338
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 112
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6075
+	}
+
+}
+#St Pierre & Miquelon (2000)
+#Ruled by France 1836
+#Saint Pierre (2000/500 POPS)
+77 = {
+	bureaucrats = {
+		culture = french
+		religion = sunni
+		size = 4
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 18
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 202
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 2025
+	}
+
+}

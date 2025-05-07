@@ -1,0 +1,12555 @@
+
+#Anhui Region (17622000)
+#under the rule of China in 918
+#Anqing (2736000/684000 POPS)
+1470 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 22000
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 10750
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 7600
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 11376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 8400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 11500
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1045726
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3550
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1800
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1800
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 162900
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 426
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 226
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 226
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 19076
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+}
+#Chizhou (2544000/636000 POPS)
+1471 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 23750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 12000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 11900
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1080950
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1650
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 850
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 850
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 76450
+	}
+}
+#Fengyang (1112000/278000 POPS)
+1472 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 10750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 5500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7200
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 5450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 495100
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 10950
+	}
+}
+#Huizhou (2238000/559500 POPS)
+1473 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 21000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10776
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 980576
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 826
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 426
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2526
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 426
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 37800
+	}
+}
+#Luzhou (2242000/560500 POPS)
+1474 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 22100
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 11126
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 5400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 11100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1008276
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 650
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 11850
+	}
+}
+#Ningguo (2156000/539000 POPS)
+1475 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 21500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10800
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 980900
+	}
+}
+#Sizhou (1344000/336000 POPS)
+1476 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 13426
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 6726
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 6726
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 611526
+	}
+}
+#Taiping (2090000/522500 POPS)
+1477 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 20900
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 950900
+	}
+}
+#Yingzhou (1160000/290000 POPS)
+1478 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 11250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 5876
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 5800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 528076
+	}
+}
+#Fengtian Region (1444000)
+#under the rule of China in 918
+#Mukden (1064000/266000 POPS)
+1479 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 8000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 1300
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 4250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 8000
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 376750
+	}
+
+	aristocrats = {
+		culture = korean
+		religion = sunni
+		size = 950
+	}
+
+	clergymen = {
+		culture = korean
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = korean
+		religion = sunni
+		size = 2450
+	}
+
+	soldiers = {
+		culture = korean
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = korean
+		religion = sunni
+		size = 44600
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 626
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 326
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 326
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 29126
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 326
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 28226
+	}
+}
+#Jinzhou (340000/85000 POPS)
+1480 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2800
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 7100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1426
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 129276
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 12750
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 12750
+	}
+}
+#Port Arthur (40000/7500 POPS)
+1481 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 13700
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 4550
+	}
+}
+#Fujian Region (10364000)
+#under the rule of China in 918
+#Fuzhou (2104000/526000 POPS)
+1482 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 6700
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4350
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 298100
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 600
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 27300
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 13500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 6800
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6500
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 588250
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 676
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 32826
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+}
+#Jianning (1260000/315000POPS)
+1483 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3800
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1950
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 9700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1950
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 176600
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 22750
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 8200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 4100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4126
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 374026
+	}
+}
+#Quanzhou (1402000/350500 POPS)
+1484 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4700
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 216626
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 8700
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 4376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 396726
+	}
+}
+#Tingzhou (3032000/758000 POPS)
+1486 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1976
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 9800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1950
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 178376
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 16000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 8126
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 8100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 739176
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 462400
+	}
+}
+#Zhangzhou (2566000/641500 POPS)
+1487 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4750
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2400
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 216450
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2050
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5226
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 95126
+	}
+}
+#Gansu Region (8010000)
+#under the rule of China in 918
+#Gansu (3024000/756000 POPS)
+1488 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 19000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 4250
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 3750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9626
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 7950
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 864226
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 7326
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1326
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 676
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 676
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 60976
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 9500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 4800
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 4800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 434900
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 350
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+}
+#Gongchang (1128000/277000 POPS)
+1489 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 10500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 5500
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 7500
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 5500
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 555500
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 12750
+	}
+}
+#Lanzhou (1796000/449000 POPS)
+1490 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 13500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 7000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 7000
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 635600
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 276
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 24600
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 3350
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1700
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1700
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 153800
+	}
+}
+#Ningxia (478000/119500 POPS)
+1491 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 3000
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1526
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 7600
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1526
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 138350
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 18250
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 676
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 676
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 60976
+	}
+}
+#Pingliang (1584000/396000 POPS)
+1492 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 15300
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 7650
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 7676
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 697076
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 276
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 23676
+	}
+}
+#Guangdong Region (10853000)
+#under the rule of China in 918
+#Canton (2266000/566500 POPS)
+1493 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4250
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4050
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5250
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 168400
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 49400
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 726
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 376
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 33676
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3250
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1650
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1650
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 149250
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 14576
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 12500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 6376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 9950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 501776
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+}
+#Chaozhou (1800000/450000 POPS)
+1494 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 7400
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3726
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8650
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 339476
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 276
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 276
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 25550
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 9750
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 449750
+	}
+}
+#Gaozhou (1894000/473500 POPS)
+1495 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 17300
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 18000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 9250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 9300
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 844950
+	}
+}
+#Hong Kong (3000/750 POPS)
+1496 = {
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1376
+	}
+}
+#Waizao (1100000/275000 POPS)
+1497 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1626
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 146526
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 926
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 476
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 976
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 89776
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5826
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2926
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2926
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 265726
+	}
+}
+#Hainan (1712000/428000 POPS) #nanfaren = li   
+1499 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3700
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1850
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 9300
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1876
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 169276
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 12326
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 6176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 563350
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2550
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 46426
+	}
+}
+#Shaozhou (1192000/298000 POPS)
+1500 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2326
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 107400
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2776
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 251176
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2026
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 183876
+	}
+}
+#Zhaoqing (886000/221500 POPS)
+1501 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 8800
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 4450
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2150
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4450
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 403150
+	}
+}
+#Ruled by Portugal in 918
+#Macao (11000/2750 POPS) 
+1498 = {
+	bureaucrats = {
+		culture = portuguese
+		religion = sunni
+		size = 6
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = sunni
+		size = 10
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = sunni
+		size = 210
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 16
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 936
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3700
+	}
+
+}
+#Guangxi Region (4286000)
+#under the rule of China in 918
+#Nanning (1240000/310000 POPS)
+1502 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1826
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1350
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2150
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 926
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 926
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 79850
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 7850
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3950
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 9700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3950
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 358550
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2450
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 112800
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 9100
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+}
+#Guilin (2334000/583500 POPS)
+1503 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2626
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 237526
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 10500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5300
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6550
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5326
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 483326
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 6176
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3126
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3126
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 283976
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3150
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 59226
+	}
+}
+#Pangle (712000/178000 POPS)
+1504 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 800
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 800
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 72900
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 3100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 143800
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2276
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 106526
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+}
+#Guizhou Region (2758000)
+#under the rule of China in 918
+#Guiyang (578000/144500 POPS)
+1505 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5276
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 576
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1350
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2676
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2576
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 241026
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4550
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1776
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 13650
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+}
+#Anshun (938000/234500 POPS)
+1506 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 273500
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2400
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1226
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6100
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1226
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 111050
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 35500
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 126
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7376
+	}
+}
+#Zhenyuan (1242000/310500 POPS)
+1507 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 9000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 4550
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4550
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 414150
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2250
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1150
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 103750
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2576
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 47376
+	}
+}
+#Henan Region (14186000)
+#under the rule of China in 918
+#Kaifeng (1936000/484000 POPS)
+1508 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 18250
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 5000
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 6850
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 9176
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 5650
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 9150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 817526
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2750
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 49600
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 6
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 496
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+}
+#Guide (1624000/406000 POPS)
+1509 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7750
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 8750
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7750
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 704350
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 34576
+	}
+}
+#Henan (1652000/413000 POPS)
+1510 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7876
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9326
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7876
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 716426
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 35500
+	}
+}
+#Huaiqing (2262000/565500 POPS)
+1511 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 21500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10776
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3826
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10776
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 980126
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 49050
+	}
+}
+#Chenzhou (1634000/408500 POPS)
+1512 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7876
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 710076
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 33676
+	}
+}
+#Nanyang (1550000/387500 POPS)
+1513 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7750
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 8750
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7750
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 705750
+	}
+}
+#Runing (1468000/367000 POPS)
+1514 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 14600
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7350
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 667976
+	}
+}
+#Weihui (2060000/515000 POPS)
+1515 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 20000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10300
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10300
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 937900
+	}
+}
+#Hubei Region (13870000)
+#under the rule of China in 918
+#Hanyang (1676000/419000 POPS)
+1516 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15000
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 6600
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 6276
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 8000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 8000
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 714650
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 226
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 21226
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 326
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 176
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 15476
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 350
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1100
+	}
+}
+#Dean (2064000/516000 POPS)
+1517 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 20500
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10326
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1576
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10326
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 939276
+	}
+}
+#Huangzhou (1656000/414000 POPS)
+1518 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 15750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 8000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7950
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 723800
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 326
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 176
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 15476
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 14576
+	}
+}
+#Anlu (1664000/416000 POPS)
+1519 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 7750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 702750
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 826
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 426
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 426
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 38226
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 326
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 16400
+	}
+}
+#Jingzhou (1632000/408000 POPS)
+1520 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 8000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 8000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 729000
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 14576
+	}
+}
+#Shinan (1622000/405500 POPS)
+1521 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 7750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 705750
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 650
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1750
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 31900
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+}
+#Wuchang (1662000/415500 POPS)
+1522 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 16000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 8500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 8300
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 755700
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 900
+	}
+}
+#Xiangyang (1894000/473500 POPS)
+1523 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 8000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 8026
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 730476
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 2800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1450
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1450
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 131050
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+}
+#Hunan Region (10292000)
+#under the rule of China in 918
+#Changsha (2060000/515000 POPS)
+1524 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 20476
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4300
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5050
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 10276
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10276
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 924226
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2750
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+}
+#Changde (808000/202000 POPS)
+1525 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 7200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 3650
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3650
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 368650
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 35500
+	}
+}
+#Baoqing (1926000/481500 POPS)
+1526 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 16500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 8500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 8400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 764600
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2400
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6150
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 111950
+	}
+}
+#Hengzhou (1898000/474500 POPS)
+1527 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 16800
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 8450
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2300
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 8476
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 769976
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5150
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 93750
+	}
+}
+#Yuezhou (596000/149000 POPS)
+1528 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4850
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2450
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2450
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 222050
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 49150
+	}
+}
+#Yongshun (1514000/378500 POPS)
+1529 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15000
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 7576
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 688976
+	}
+}
+#Yongzhou (1490000/372500 POPS)
+1530 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 12500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 6300
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6300
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 571500
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 106500
+	}
+}
+#Inner Mongolia Region (588000)
+#under the rule of China in 918
+#Guihua Tumed (218000/54500 POPS)
+1532 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 226
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 226
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 95250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 3626
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+}
+#Jirim Chuulghan (76000/19000 POPS)
+1533 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 650
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 326
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1376
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 30650
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 26
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1876
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1850
+	}
+}
+#Ulaan Chab Chuulghan (66000/16500 POPS)
+1534 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 650
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 326
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1650
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 29376
+	}
+}
+#Yeke Juu Chuulghan (228000/57000 POPS)
+1535 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2226
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1126
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5600
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1126
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 101926
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 26
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1876
+	}
+}
+#Jiangsu Region (18806000)
+#under the rule of China in 918
+#Nanjing (1716000/429000 POPS)
+2221 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 11500
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 6850
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 5950
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 5250
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 5250
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 443300
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 6750
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 2376
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 3050
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 3326
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 3350
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 284526
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 276
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1100
+	}
+}
+#Huaian (1574000/393500 POPS)
+1536 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1050
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 576
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 550
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50076
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 14600
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7326
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7326
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 666150
+	}
+}
+#Changzhou (3062000/765500 POPS)
+1537 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 26726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 13400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 13376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1216650
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1950
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9750
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1950
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 176550
+	}
+}
+#Shanghai (134000/35500 POPS)
+1538 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1300
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 676
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 676
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 61000
+	}
+}
+#Suzhou (2484000/621000 POPS)
+1539 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 21226
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 10650
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 10626
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 966400
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3550
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1826
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 163826
+	}
+}
+#Taicangzhou (2764000/691000 POPS)
+1540 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 22150
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 11076
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 5400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 11076
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1008300
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 5450
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2750
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 3700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 2750
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 249350
+	}
+}
+#Tongzhou (2760000/690000 POPS)
+1541 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 25750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 12926
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 4500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 12900
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1173926
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 926
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 4500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 81926
+	}
+}
+#Xuzhou (1078000/269500 POPS)
+1542 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2350
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1200
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1200
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 108250
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8350
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 4226
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 4200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 382226
+	}
+}
+#Yangzhou (1674000/418500 POPS)
+1543 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1126
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1126
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 101950
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 14000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 7500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 7250
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 660000
+	}
+}
+#Zhenjiang (1560000/395000 POPS)
+1544 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 11650
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 5876
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 5850
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 532376
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 4050
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2076
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 2050
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 186576
+	}
+}
+#Jiangxi Region (12932000)
+#under the rule of China in 918
+#Nanchang (1388000/347000 POPS)
+1545 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 4326
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 4900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5026
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 451176
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3100
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1626
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 1426
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1550
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1576
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 140076
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 376
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 31826
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 176
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+}
+#Guangxin (1480000/370000 POPS)
+1546 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 10500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6300
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5276
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 478676
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3026
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1526
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1526
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 138326
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1226
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3100
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 56426
+	}
+}
+#Jian (3346000/836500 POPS)
+1547 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 11500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5800
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5800
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 526000
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 21900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 11000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10950
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 996400
+	}
+}
+#Jianchang (828000/207000 POPS)
+1548 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5750
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2900
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2900
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 262050
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 6300
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1276
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 114676
+	}
+}
+#Jiujiang (1962000/490500 POPS)
+1549 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 7550
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7576
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 687976
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3826
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1926
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 9650
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1950
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 175650
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 326
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 326
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 29776
+	}
+}
+#Ganzhou (2470000/617500 POPS)
+1550 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 23500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 11750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 11776
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1070176
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1150
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 53700
+	}
+}
+#Raozhou (1458000/364500 POPS)
+1551 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 11500
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 5800
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 8900
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5800
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 526000
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1500
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7550
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1526
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 137426
+	}
+}
+#Manchuria Region (3382000)
+#under the rule of China in 918
+#Qiqihar (1392350/348088 POPS)
+1552 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 7550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 343950
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 2700
+	}
+}
+#Daqing
+2654 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 7550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 343950
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 2700
+	}
+}
+#Aigun (762000/190500 POPS)
+1553 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 7550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 343950
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 2700
+	}
+}
+#Ninguta (534000/133500 POPS)
+1554 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 4500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 2300
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1500
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 2300
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 208400
+	}
+
+	aristocrats = {
+		culture = korean
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = korean
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = korean
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = korean
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = korean
+		religion = sunni
+		size = 34600
+	}
+}
+#Jilin (568000/142000 POPS)
+1555 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 4900
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 2550
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2500
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 2500
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 227550
+	}
+
+	aristocrats = {
+		culture = korean
+		religion = sunni
+		size = 650
+	}
+
+	clergymen = {
+		culture = korean
+		religion = sunni
+		size = 350
+	}
+
+	artisans = {
+		culture = korean
+		religion = sunni
+		size = 1700
+	}
+
+	soldiers = {
+		culture = korean
+		religion = sunni
+		size = 350
+	}
+
+	farmers = {
+		culture = korean
+		religion = sunni
+		size = 30950
+	}
+}
+#Manzhouli (125650/31413 POPS)
+1002 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 626
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 3150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 53800
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 2700
+	}
+}
+#Qinghai Region (624000)
+#under the rule of China in 918
+#Makhai (226000/56500 POPS)
+1556 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1800
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 176
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 900
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 926
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 82200
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 1800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 350
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 176
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 176
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 16400
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+}
+#Balekungomi (182000/45500 POPS)
+1557 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 3800
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 776
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 69176
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 12750
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 20
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 20
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 10
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 900
+	}
+}
+#Kegudo (216000/54000 POPS)
+1558 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 34600
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 226
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 126
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 126
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10926
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = kazak
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = sunni
+		size = 126
+	}
+
+	farmers = {
+		culture = kazak
+		religion = sunni
+		size = 10026
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 926
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 476
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 476
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 42776
+	}
+}
+#Shaanxi Region (4550000)
+#under the rule of China in 918
+#Xian (1584000/396000 POPS)
+1559 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 15000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 1850
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 2200
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 7500
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 7500
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 685300
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 800
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 426
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 38226
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+}
+#Yenan (544000/136000 POPS)
+1561 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 5050
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 2550
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 2550
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 231150
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 326
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 176
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 16400
+	}
+}
+#Hanzhong (1746000/436500 POPS)
+1562 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 7750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3900
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 9400
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3900
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 353050
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 826
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 426
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 39150
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 8826
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 4426
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 4426
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 402226
+	}
+}
+#Shangzhou (676000/169000 POPS)
+2062 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 6326
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3176
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5900
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3200
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 289400
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 376
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 200
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 18226
+	}
+}
+#Shandong Region (14286000)
+#under the rule of China in 918
+#Jinan (2958000/739500 POPS)
+1563 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 28100
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 6700
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 6900
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 14100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 14100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1265600
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1400
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 3550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 726
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 64626
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1500
+	}
+}
+#Caozhou (1852000/463000 POPS)
+1564 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 18500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 6300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9276
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 842948
+	}
+}
+#Laizhou (1818000/454500 POPS)
+1565 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 18150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 827200
+	}
+}
+#Qingdao (12000/3000 POPS)
+1566 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 5476
+	}
+}
+#Qingzhou (1968000/492000 POPS)
+1567 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 19650
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9850
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 9200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9850
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 895450
+	}
+}
+#Taian (1844000/461000 POPS)
+1568 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 18426
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9226
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 6100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9226
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 839026
+	}
+}
+#Weihaiwei (14000/3500 POPS)
+1569 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 6376
+	}
+}
+#Wuling (1848000/462000 POPS)
+1570 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 18450
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 6200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9250
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 840850
+	}
+}
+#Yizhou (1972000/493000 POPS)
+1571 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 19700
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9850
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 9300
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9876
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 897276
+	}
+}
+#Shanxi Region (7610000)
+#under the rule of China in 918
+#Taiyuan (2218000/554500 POPS)
+1572 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 21800
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 3250
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 3700
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 11000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4750
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 10950
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 988950
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 12750
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 126
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 376
+	}
+}
+#Fenzhou (1706000/426500 POPS)
+1573 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 16850
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 8450
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 8450
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 768050
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 8200
+	}
+}
+#Luan (1874000/468500 POPS)
+1574 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 18550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 9300
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 6450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 9300
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 845400
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 7300
+	}
+}
+#Pingyang (1696000/424000 POPS)
+1575 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 16800
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 8400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2050
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 8426
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 765326
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 6376
+	}
+}
+#Datong (116000/29000 POPS)
+1576 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 550
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2800
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 576
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 50976
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1800
+	}
+}
+#Sichuan Region (17302000)
+#under the rule of China in 918
+#Chongqing (1918000/479500 POPS)
+1577 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 19150
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 9600
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7950
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 9600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 872700
+	}
+}
+#Chengdu (1156000/289000 POPS)
+1578 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 11550
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 6126
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 8550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 5800
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 5800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 474150
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 126
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+}
+#Baotung (2134000/533500 POPS)
+1579 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 21226
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 10676
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10676
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1077676
+	}
+}
+#Jiading (2040000/510000 POPS)
+1580 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 9900
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 5000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 454100
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 7300
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 3750
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8500
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 3700
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 336750
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2200
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1126
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 101026
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 800
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 36400
+	}
+}
+#Kuizhou (2146000/536500 POPS)
+1581 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 21400
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 10750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3650
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 10750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 976450
+	}
+}
+#Longan (1398000/349500 POPS)
+1582 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 11000
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 5550
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 7650
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 5550
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 503250
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2000
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5250
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1050
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 95650
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 35500
+	}
+}
+#Shunqing (2290000/572500 POPS)
+1583 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 22900
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 11500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7250
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 11450
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1041900
+	}
+}
+#Tongchuan (1512000/378000 POPS)
+1584 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 15100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 7576
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 7800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 7600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 687926
+	}
+}
+#Yibin (1444000/361000 POPS)
+1585 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 8550
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 4300
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 4300
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 390400
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 99200
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 3650
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1850
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 9200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1850
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 167400
+	}
+}
+#Yazhou (1264000/316000 POPS)
+1586 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 9026
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 4526
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2600
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 4526
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 411326
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 7326
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 8200
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 3250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 1626
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 8150
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 1626
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 148350
+	}
+}
+#Yunnan Region (2826000)
+#under the rule of China in 918
+#Kunming (1508000/377000 POPS)
+1601 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 13500
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 676
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1376
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 6750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6776
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 612826
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 9100
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 300
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 5476
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 9000
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1126
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 2600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 47326
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 26
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+}
+#Dali (608000/152000 POPS)
+1602 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 6376
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 5400
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 2750
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 3500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 2700
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 245650
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 526
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 276
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 276
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 24576
+	}
+}
+#Paer (710000/177500 POPS)
+1603 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2200
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1100
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 100100
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 1700
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 4400
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 80100
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 626
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 326
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 1600
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 326
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 29176
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = sunni
+		size = 2276
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = sunni
+		size = 5850
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = sunni
+		size = 1176
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = sunni
+		size = 106526
+	}
+}
+#Zhejiang Region (4974000)
+#under the rule of China in 918
+#Hangzhou (844000/211000 POPS)
+1604 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 5450
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1550
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 2476
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 2750
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 8000
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 2750
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 210450
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 2726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 7450
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 104076
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 126
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 6376
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = beifaren
+		religion = sunni
+		size = 76
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 500
+	}
+}
+#Huzhou (188000/47000 POPS)
+1605 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 33676
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1126
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 576
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2850
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 576
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 51876
+	}
+}
+#Jiaxing (172000/43000 POPS)
+1606 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 950
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 476
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 43676
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 376
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 34626
+	}
+}
+#Jinhua (1032000/258000 POPS)
+1607 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8376
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 4200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 4250
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 383126
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 12750
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1600
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 800
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 4050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 826
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 73726
+	}
+}
+#Ningbo (578000/144500 POPS)
+1608 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 3326
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1676
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 8350
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1676
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 151976
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 2426
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1226
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1226
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 111026
+	}
+}
+#Shaoxing (436000/109000 POPS)
+1609 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 1726
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 876
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 4400
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 80100
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 2550
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 1326
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 6500
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 1300
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 118326
+	}
+}
+#Taizhou (842000/210500 POPS)
+1610 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 4200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 4226
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 383126
+	}
+}
+#Wenzhou (882000/ 220500 POPS)
+1611 = {
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 8350
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 4226
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 4200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 382226
+	}
+
+	aristocrats = {
+		culture = beifaren
+		religion = sunni
+		size = 400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = sunni
+		size = 200
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = sunni
+		size = 1050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = sunni
+		size = 226
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = sunni
+		size = 19126
+	}
+}
+#Zhili Region (17434000)
+#under the rule of China in 918
+#Beijing (2478000/619500 POPS)
+1612 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 24050
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 9100
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 6000
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 12050
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 11550
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 998650
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 850
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 31250
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = sunni
+		size = 2250
+	}
+
+	officers = {
+		culture = manchu
+		religion = sunni
+		size = 3500
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 12000
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 10750
+	}
+}
+#Chengde (3210000/802500 POPS)
+1613 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 31750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 16000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 9550
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 15900
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1447800
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 700
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 12750
+	}
+}
+#Daming (1682000/420500 POPS)
+1614 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 16800
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 8400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2050
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 8426
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 765326
+	}
+}
+#Jizhou (2248000/562000 POPS)
+1615 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 22450
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 11250
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 6200
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 11250
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1022850
+	}
+}
+#Shuntian (2214000/553500 POPS)
+1616 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 22076
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 11076
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5350
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 11076
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1007426
+	}
+}
+#Tianjin (2982000/745500 POPS)
+1617 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 29026
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 14526
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 2600
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 14526
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1321326
+	}
+
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 750
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 400
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 35500
+	}
+}
+#Zhongding (2620000/655000 POPS)
+1618 = {
+	aristocrats = {
+		culture = manchu
+		religion = sunni
+		size = 26150
+	}
+
+	clergymen = {
+		culture = manchu
+		religion = sunni
+		size = 13126
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 10000
+	}
+
+	artisans = {
+		culture = manchu
+		religion = sunni
+		size = 5500
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = sunni
+		size = 13100
+	}
+
+	farmers = {
+		culture = manchu
+		religion = sunni
+		size = 1192126
+	}
+
+}
+

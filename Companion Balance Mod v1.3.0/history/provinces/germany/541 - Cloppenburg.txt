@@ -1,0 +1,12 @@
+owner = OLD
+1910.1.1 = {
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = OLD
+add_core = OLD
+add_core = GER
+trade_goods = coal
+life_rating = 40

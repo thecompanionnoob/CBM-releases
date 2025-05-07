@@ -1,0 +1,13 @@
+owner = MEX
+1910.1.1={
+owner = USA
+controller = USA
+railroad = 5
+add_core = USA
+}
+controller = MEX
+add_core = MEX
+
+trade_goods = grain
+life_rating = 35
+

@@ -1,8 +1,0 @@
-name = "Companion Balance Mod v1.2.1"
-path = "mod/Companion Balance Mod v1.2.1"
-user_dir = "CBM v1.2.1"
-replace_path = "events"
-replace_path = "history"
-replace_path = "history/countries"
-replace_path = "common"
-replace_path = "decisions"

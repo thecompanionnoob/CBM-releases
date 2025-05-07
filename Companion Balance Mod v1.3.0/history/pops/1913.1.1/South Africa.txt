@@ -1,0 +1,2008 @@
+
+
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration 
+#Cape Town (173000/43250 POPS)
+2087 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2010
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 24254
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2010
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 32294
+	}
+
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 54
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 188
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 161
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 6700
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 11390
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	bureaucrats = {
+		culture = african_minor
+		religion = sunni
+		size = 80
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2948
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 2948
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 29869
+	}
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 20368
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 17956
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 214
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1876
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 54
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 9179
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 25862
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 804
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 1769
+	}
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 17755
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 804
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 10787
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 39329
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 804
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 1769
+	}
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 4221
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 4824
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 94
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7745
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 4958
+	}
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7370
+	}
+
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration 
+#Beaufort (34600/8650 POPS)
+2092 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 6566
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 536
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 27
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 2077
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 12864
+	}
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 2211
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7772
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 5025
+	}
+}
+#De Aar (30600/7650 POPS) 
+2558 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 15276
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 6298
+	}
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 4288
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 97016
+	}
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 12462
+	}
+
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 804
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 7102
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 107
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 94
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 10452
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 2573
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7772
+	}
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 27
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 40
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 23651
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 10184
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 2278
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 10318
+	}
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (40000/10000 POPS)
+2098 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1340
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 24656
+	}
+}
+#Mathele (40000/10000 POPS)
+2099 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1340
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 268
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 24656
+	}
+}
+#Umtata (72000/18000 POPS)
+2100 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2412
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 44220
+	}
+
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration 
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+	bureaucrats = {
+		culture = african_minor
+		religion = sunni
+		size = 5
+	}
+
+	officers = {
+		culture = african_minor
+		religion = sunni
+		size = 8
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 13
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 241
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1608
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 2479
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 1273
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 6365
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 1273
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 116580
+	}
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 13
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 2948
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1126
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 938
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 603
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2948
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 48843
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 12261
+	}
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 241
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1608
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2747
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 50049
+	}
+}
+#Thaba Bosiu (128000/32000 POPS) #now Lesotho 
+2104 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1675
+	}
+
+	bureaucrats = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	officers = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 871
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 4288
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 871
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 77653
+	}
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration 
+#Pretoria (137600/34400 POPS)
+2105 = {
+	bureaucrats = {
+		culture = african_minor
+		religion = sunni
+		size = 5
+	}
+
+	officers = {
+		culture = african_minor
+		religion = sunni
+		size = 8
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 13
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 54
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 2948
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 858
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1742
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 938
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 3618
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 938
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 83884
+	}
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 27
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 174
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1340
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1139
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 3350
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 61037
+	}
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 13
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 549
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 603
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1608
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 42679
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 737
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1608
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 23651
+	}
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#Boer POPs represent post-Great Trek migration 
+#Mosega (48200/12050 POPS)
+2108 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 3
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 8
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 16
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 107
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 536
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 7035
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 938
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 22445
+	}
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 8
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 32
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 40
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 322
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 603
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1742
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 31758
+	}
+}
+#uncolonized in 1836/dominated by the Gaza Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 3
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 8
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 16
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 107
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 12596
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 469
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 4690
+	}
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#Boer POPs represent post-Great Trek migration 
+#Durban (126000/31500 POPS)
+2111 = {
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 13
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 134
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 1126
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 19497
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 1139
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 603
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 2814
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 56414
+	}
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 2010
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 1072
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 5226
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 18760
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 77452
+	}
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 4154
+	}
+
+	bureaucrats = {
+		culture = african_minor
+		religion = sunni
+		size = 67
+	}
+
+	officers = {
+		culture = african_minor
+		religion = sunni
+		size = 402
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 2211
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 10720
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 42880
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 153966
+	}
+}
+#Mbabane (80000/20000 POPS)  #now Swaziland
+2114 = {
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 938
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 201
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 17085
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = sunni
+		size = 670
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = sunni
+		size = 1742
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = sunni
+		size = 335
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = sunni
+		size = 31758
+	}
+
+}
+
+

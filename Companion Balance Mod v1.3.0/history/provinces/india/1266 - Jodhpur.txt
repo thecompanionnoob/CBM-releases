@@ -1,0 +1,12 @@
+owner = MGH
+1910.1.1 = {
+owner = HND
+controller = HND
+add_core = HND
+}
+controller = MGH
+
+
+add_core = MGH
+trade_goods = tea
+life_rating = 32

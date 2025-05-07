@@ -1,0 +1,25 @@
+owner = ENG
+1910.1.1 = {
+railroad = 5
+naval_base = 3
+	state_building = {
+		level = 1
+		building = steel_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 12
+		building = steamer_shipyard
+		upgrade = yes
+	}
+ }
+controller = ENG
+add_core = ENG
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+fort = 1
+1925.1.1 = { 
+	railroad = 3 
+	naval_base = 1 
+}

@@ -1,0 +1,12 @@
+owner = SAX
+1910.1.1 = {
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = SAX
+add_core = SAX
+add_core = GER
+trade_goods = iron
+life_rating = 40

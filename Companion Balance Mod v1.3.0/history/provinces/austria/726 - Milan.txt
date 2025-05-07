@@ -1,0 +1,60 @@
+owner = AUS
+1910.1.1 = {
+owner = KUK
+railroad = 3
+controller = KUK
+add_core = KUK
+ }
+controller = AUS
+
+add_core = ITA
+1910.1.1 = {
+owner = ITA
+controller = ITA
+add_core = ITA
+ }
+trade_goods = iron
+life_rating = 35
+fort = 1
+1910.1.1 = {
+	state_building = {
+		level = 7
+		building = steel_factory 
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = small_arms_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = ammunition_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 6
+		building = furniture_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = luxury_furniture_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 6
+		building = luxury_clothes_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+}

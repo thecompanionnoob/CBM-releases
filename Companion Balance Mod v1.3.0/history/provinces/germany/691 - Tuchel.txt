@@ -1,0 +1,48 @@
+owner = PRU
+1910.1.1 = {
+owner = GER
+naval_base = 3
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = PRU
+add_core = PRU
+add_core = GER
+add_core = POL
+
+trade_goods = cattle
+life_rating = 40
+1910.1.1 = {
+	state_building = {
+		level = 5
+		building = steel_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = machine_parts_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = electric_gear_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = telephone_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = automobile_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = radio_factory
+		upgrade = yes
+	}
+
+}

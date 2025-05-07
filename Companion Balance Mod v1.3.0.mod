@@ -1,0 +1,8 @@
+name = "Companion Balance Mod v1.3.0"
+path = "mod/Companion Balance Mod v1.3.0"
+user_dir = "CBM v1.3.0"
+replace_path = "events"
+replace_path = "history"
+replace_path = "history/countries"
+replace_path = "common"
+replace_path = "decisions"

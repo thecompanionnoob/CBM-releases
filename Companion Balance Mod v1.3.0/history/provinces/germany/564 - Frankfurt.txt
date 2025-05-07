@@ -1,0 +1,30 @@
+owner = HES
+1910.1.1 = {
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = HES
+add_core = HES
+add_core = GER
+trade_goods = fruit
+life_rating = 40
+fort = 1
+1910.1.1 = {
+	state_building = {
+		level = 7
+		building = steel_factory
+		upgrade = yes
+	}  
+	state_building = {
+		level = 4
+		building = artillery_factory
+		upgrade = yes
+	}  
+	state_building = {
+		level = 5
+		building = canned_food_factory
+		upgrade = yes
+	}
+}

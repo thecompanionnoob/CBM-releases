@@ -1,0 +1,1651 @@
+
+#New South Wales Region 144000
+#Ruled by Britain 1836
+#Sydney (64000/16000 POPS)
+2468 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 315
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 1035
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 37350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 10125
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 87075
+	}
+}
+#Newcastle (16000/4000 POPS)
+2469 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15030
+	}
+
+	clergymen = {
+		culture = irish
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = irish
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = irish
+		religion = sunni
+		size = 8640
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8325
+	}
+}
+#Port Macquarie (12000/3000 POPS)
+2470 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+
+#Eden (12000/3000 POPS)
+2472 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 16650
+	}
+}
+#Wagga Wagga (12000/3000 POPS)
+2473 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#uncolonized in 1836
+#Ophir (8000/2000 POPS)
+2471 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Moree (8000/2000 POPS)
+2474 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Broken Hill (12000/3000 POPS)
+2475 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24300
+	}
+}
+#Victoria Region - 44000
+#uncolonized in 1836
+#Melbourne (12000/3000 POPS)
+2476 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24300
+	}
+}
+#Warnambool (8000/2000 POPS)
+2477 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Ballarat (8000/2000 POPS)
+2478 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Sale (8000/2000 POPS)
+2479 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Beechworth (4000/1000 POPS)
+2480 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Swan Hill (4000/1000 POPS)
+2481 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+}
+#Tasmania Region (36000)
+#ruled by Britain 1836
+#Hobart (36000/9000 POPS)
+2482 = {
+	bureaucrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 18000
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 60975
+	}
+
+}
+#Queensland Region : 64000
+#ruled by Britain 1836
+#2483 - Brisbane (12000/3000 POPS)
+2483 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#uncolonized in 1836
+#Gladstone (8000/2000 POPS)
+2484 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Clermont (4000/1000 POPS)
+2485 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Toowoomba (8000/2000 POPS)
+2486 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Townsville (8000/2000 POPS)
+2487 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Cooktown (10000/2500 POPS)
+2488 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 20475
+	}
+}
+#Longreach (4000/1000 POPS)
+2489 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Charleville (4000/1000 POPS)
+2490 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+}
+#Normanton (6000/1500 POPS)
+2604 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 12330
+	}
+}
+#South Australia Region - 32000
+#uncolonized in 1836
+#Adelaide (12000/3000 POPS)
+2491 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24300
+	}
+}
+#Port Lincoln (4000/1000 POPS)
+2492 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Robe (4000/1000 POPS)
+2493 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Port Augusta (4000/1000 POPS)
+2494 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Oodnadatta (4000/1000 POPS)
+2495 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Tarcoola (4000/1000 POPS)
+2496 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+}
+#Western Australia Region : 71000
+#ruled by Britain 1836
+#Perth (23000/5750 POPS)
+2497 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 360
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 6165
+	}
+
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 40500
+	}
+}
+#Kojonup (12000/3000 POPS)
+2498 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24300
+	}
+
+}
+#Geraldton (8000/2000 POPS)
+2499 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Kalgoorlie (4000/1000 POPS)
+2500 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Broome (8000/2000 POPS)
+2501 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Dampier (2000/500 POPS)
+2502 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 4050
+	}
+}
+#Laverton (2800/700 POPS)
+2503 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 315
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 5670
+	}
+}
+#Esperance (4000/1000 POPS)
+2504 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+
+}
+#Halls Creek (2000/500 POPS)
+2601 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 4050
+	}
+}
+#Roebourne (2000/500 POPS)
+2602 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 4050
+	}
+}
+#Wiluna (3200/800 POPS)
+2605 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 360
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 6525
+	}
+}
+#Northern Australia Region (32000)
+#uncolonized in 1836
+#Palmerston (20000/5000 POPS)
+2505 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 1125
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 40500
+	}
+}
+#Tennant Creek (8000/2000 POPS)
+2506 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15750
+	}
+}
+#Alice Springs (2800/700 POPS)
+2507 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 315
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 5670
+	}
+
+}
+#Lajamanu (1200/300 POPS)
+2603 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 18
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 27
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 2475
+	}
+
+}
+#Norfolk Island Region (1000)
+#Ruled by Britain 1836
+#Norfolk Island (1000/250 POPS)
+2508 = {
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 27
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 18
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 2115
+	}
+
+}

@@ -1,0 +1,13 @@
+owner = ENG
+1910.1.1 = {
+railroad = 5
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = ENG
+add_core = ENG
+trade_goods = fish
+life_rating = 35
+terrain = plains

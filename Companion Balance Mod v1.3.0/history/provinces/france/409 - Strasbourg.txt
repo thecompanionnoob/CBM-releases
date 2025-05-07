@@ -1,0 +1,20 @@
+owner = FRA
+1910.1.1 = {
+railroad = 4
+owner = GER
+railroad = 4
+controller = GER 
+}
+controller = FRA
+add_core = FRA
+add_core = GER
+trade_goods = grain
+life_rating = 33
+
+1910.1.1 = {
+	state_building = {
+		level = 6
+		building = furniture_factory
+		upgrade = yes
+	}
+}

@@ -1,0 +1,108 @@
+
+economic_focus =
+{
+	throughput_focus = {
+		local_factory_throughput = 0.15
+		icon = 6
+	}
+	efficiency_focus = {
+		local_factory_output = 0.05
+		local_factory_input = -0.05
+		icon = 7
+	}
+	rgo_focus = {
+		local_RGO_output = 0.25
+		icon = 21
+	}
+	#Non-functional, artisan output seems not able to be modified
+	#artisan_focus = {
+	#	local_artisan_output = 25.0
+	#	icon = 6
+	#}
+}
+
+political_focus = {
+	#Irrelevant with new reform system
+	#militancy_reform_focus = {
+	#	pop_militancy_modifier = 0.3
+	#	political_reform_desire = 0.5
+	#	social_reform_desire = 0.5
+	#	icon = 4
+	#}
+	pacification_focus = {
+		pop_militancy_modifier = -0.3
+		icon = 4
+	}
+}
+
+military_focus = {
+	scorched_earth_focus = {
+		pop_militancy_modifier = 0.1
+		max_attrition = 5
+		supply_limit = -4
+		#global_population_growth = -0.0004 #doesnt work
+		immigrant_push = 0.75
+		icon = 3
+	}
+	supply_focus = {
+		max_attrition = -1
+		supply_limit = 3
+		icon = 2
+	}
+	navy_build_focus = {
+		local_ship_build = -0.33
+		icon = 5
+	}
+}
+
+party_loyalty_focus =
+{
+	fascist_focus =
+	{
+		ideology = fascist
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 25
+	}
+	
+	reactionary_focus =
+	{
+		ideology = reactionary
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 26
+	}
+	
+	conservative_focus =
+	{
+		ideology = conservative
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 27
+	}
+	
+	socialist_focus =
+	{
+		ideology = socialist
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 28
+	}
+	
+	communist_focus =
+	{
+		ideology = communist
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 29
+	}
+	
+	liberal_focus =
+	{
+		ideology = liberal
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 30
+	}
+	
+	anarcho_liberal_focus =
+	{
+		ideology = anarcho_liberal
+		loyalty_value = 0.002 # By that much pops will be more loyal
+		icon = 31
+	}
+}

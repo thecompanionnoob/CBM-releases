@@ -1,0 +1,23 @@
+
+trade_goods = grain
+life_rating = 20
+
+1910.1.1 = {
+    owner = POR
+railroad = 3
+    controller = POR
+    colonial = 2
+}
+	
+	
+	
+
+	
+	
+	
+
+
+	
+	
+	
+	

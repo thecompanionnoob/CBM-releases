@@ -1,0 +1,7 @@
+owner = AST
+controller = AST
+add_core = AST
+trade_goods = wool
+life_rating = 30
+
+1925.1.1 = { railroad = 1 }

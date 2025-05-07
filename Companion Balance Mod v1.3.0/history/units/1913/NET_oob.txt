@@ -1,0 +1,137 @@
+army = {
+    name = "Army of the Netherlands"
+    location = 375
+    
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 375
+    }    
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 376
+    }    
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 377
+    }    
+    regiment = {
+        name = "Infantry"
+        type = infantry
+        home = 378
+    }    
+    regiment = {
+        name = "Cavalry"
+        type = hussar
+        home = 380
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 379
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 381
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 382
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 384  
+    }
+    regiment = {
+        name = "Artillery"
+        type = artillery
+        home = 383
+    }
+}
+navy = {
+    name = "Dutch Navy"
+    location = 376
+    
+    ship = {
+        name = "Battleship"
+        type = battleship
+    }    
+    ship = {
+        name = "Battleship"
+        type = battleship
+    }    
+    ship = {
+        name = "Battleship"
+        type = battleship
+    }    
+    ship = {
+        name = "Battleship"
+        type = battleship
+    }    
+    ship = {
+        name = "Battleship"
+        type = battleship
+    }    
+    ship = {
+        name = "Cruiser"
+        type = cruiser
+    }    
+    ship = {
+        name = "Cruiser"
+        type = cruiser
+    }    
+    ship = {
+        name = "Cruiser"
+        type = cruiser
+    }  
+}
+navy = {
+    name = "Transport Fleet"
+    location = 375
+    
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }       
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }
+    ship = {
+        name = "Transport"
+        type = steam_transport
+    }    
+}

@@ -1,0 +1,21 @@
+owner = SCA
+1910.1.1 = {
+railroad = 4
+}
+controller = SCA
+
+add_core = SCA
+trade_goods = timber
+life_rating = 35
+1910.1.1 = {
+owner = RUS
+railroad = 2
+controller = RUS
+add_core = RUS
+}
+
+#state_building = {
+#	level = 1
+#	building = lumber_mill
+#	upgrade = yes
+#}

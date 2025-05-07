@@ -1,0 +1,16 @@
+owner = BUL
+controller = BUL
+add_core = BUL
+add_core = SER
+add_core = YUG
+trade_goods = timber
+life_rating = 35
+
+1910.1.1 = {
+    owner = SER
+railroad = 2
+    controller = SER
+}
+
+        
+

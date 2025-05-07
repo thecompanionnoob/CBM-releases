@@ -1,0 +1,19 @@
+owner = PRU
+1910.1.1 = {
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = PRU
+add_core = PRU
+naval_base = 1
+colonial = 2
+life_rating = 35
+trade_goods = fish
+	
+	
+	
+
+	
+	

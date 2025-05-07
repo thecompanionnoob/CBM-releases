@@ -1,0 +1,13 @@
+owner = SIC
+controller = SIC
+colonial = 2
+naval_base = 1
+trade_goods = fish
+life_rating = 35
+
+1910.1.1 = { owner = FRA controller = FRA }
+
+	
+	
+	
+	

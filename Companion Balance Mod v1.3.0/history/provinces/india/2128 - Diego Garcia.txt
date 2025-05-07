@@ -1,0 +1,6 @@
+owner = BEL
+controller = BEL
+add_core = BEL
+naval_base = 1
+trade_goods = fish
+life_rating = 32

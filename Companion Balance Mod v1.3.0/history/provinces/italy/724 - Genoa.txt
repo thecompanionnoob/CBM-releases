@@ -1,0 +1,16 @@
+owner = SAR
+1910.1.1 = {
+owner = ITA
+railroad = 3
+controller = ITA
+add_core = ITA
+naval_base = 3
+ }
+controller = SAR
+add_core = SAR
+add_core = ITA
+trade_goods = fruit
+life_rating = 35
+naval_base = 1
+
+	

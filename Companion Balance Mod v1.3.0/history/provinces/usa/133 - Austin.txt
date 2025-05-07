@@ -1,0 +1,57 @@
+owner = MEX
+1910.1.1={
+owner = USA
+	railroad = 5
+controller = USA
+add_core = USA
+}
+controller = MEX
+add_core = MEX
+
+trade_goods = cattle
+life_rating = 35
+
+1910.1.1 = {
+	state_building = {
+		level = 2
+		building = fabric_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 5
+		building = steamer_shipyard
+		upgrade = yes
+	}
+	state_building = {
+		level = 15
+		building = fuel_refinery
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = steel_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = machine_parts_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = electric_gear_factory
+		upgrade = yes
+	}
+
+}
+		

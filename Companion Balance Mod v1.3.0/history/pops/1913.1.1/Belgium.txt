@@ -1,0 +1,701 @@
+
+#Flanders Region (2558000)
+#Brussels (772000/193000 POPS)
+387 = {
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 30
+	}
+
+	clerks = {
+		culture = dutch
+		religion = sunni
+		size = 60
+	}
+
+	craftsmen = {
+		culture = dutch
+		religion = sunni
+		size = 600
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 1710
+	}
+
+	aristocrats = {
+		culture = dutch
+		religion = sunni
+		size = 1800
+	}
+
+	officers = {
+		culture = dutch
+		religion = sunni
+		size = 240
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = sunni
+		size = 960
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 1950
+	}
+
+	capitalists = {
+		culture = dutch
+		religion = sunni
+		size = 60
+	}
+
+	clerks = {
+		culture = dutch
+		religion = sunni
+		size = 180
+	}
+
+	craftsmen = {
+		culture = dutch
+		religion = sunni
+		size = 3600
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 7200
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 3600
+	}
+
+	craftsmen = {
+		culture = dutch
+		religion = sunni
+		size = 174870
+	}
+
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 360
+	}
+
+	officers = {
+		culture = french
+		religion = sunni
+		size = 540
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = sunni
+		size = 1920
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 300
+	}
+
+	capitalists = {
+		culture = french
+		religion = sunni
+		size = 180
+	}
+
+	clerks = {
+		culture = french
+		religion = sunni
+		size = 360
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 6000
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 12000
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 2760
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	labourers = {
+		culture = french
+		religion = sunni
+		size = 6780
+	}
+}
+#Bruges (456000/114000 POPS)
+388 = {
+	aristocrats = {
+		culture = dutch
+		religion = sunni
+		size = 1380
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 1350
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 12000
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 1440
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 120630
+	}
+}
+#Ghent (704000/176000 POPS)
+389 = {
+	aristocrats = {
+		culture = dutch
+		religion = sunni
+		size = 2100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 2100
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 12000
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 7200
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 2100
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 179700
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 60
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 5880
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 60
+	}
+}
+#Antwerp (354000/88500 POPS)
+390 = {
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 30
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 1770
+	}
+
+	aristocrats = {
+		culture = dutch
+		religion = sunni
+		size = 990
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 12000
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 4320
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 81240
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 60
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 3510
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 30
+	}
+}
+#Hasselt (272000/68000 POPS)
+391 = {
+	aristocrats = {
+		culture = dutch
+		religion = sunni
+		size = 780
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 810
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 4200
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 74610
+	}
+
+}
+#Wallonia Region (1432000)
+#Liege (388000/97000 POPS)
+392 = {
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 1020
+	}
+
+	officers = {
+		culture = french
+		religion = sunni
+		size = 420
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = sunni
+		size = 1680
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 1020
+	}
+
+	capitalists = {
+		culture = french
+		religion = sunni
+		size = 180
+	}
+
+	clerks = {
+		culture = french
+		religion = sunni
+		size = 240
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 4800
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 10800
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 4800
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 73440
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 180
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 3600
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 150
+	}
+
+	labourers = {
+		culture = dutch
+		religion = sunni
+		size = 9390
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 4710
+	}
+}
+#Tournai (292000/73000 POPS)
+393 = {
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 120
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 1320
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 120
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 10560
+	}
+
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 840
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 750
+	}
+
+	clerks = {
+		culture = french
+		religion = sunni
+		size = 120
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 2400
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 3000
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 79290
+	}
+}
+#Charleroi (396000/99000 POPS)
+394 = {
+	clergymen = {
+		culture = dutch
+		religion = sunni
+		size = 120
+	}
+
+	artisans = {
+		culture = dutch
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = dutch
+		religion = sunni
+		size = 12330
+	}
+
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 1080
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 4200
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 96870
+	}
+}
+#Namur (212000/53000 POPS)
+395 = {
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 660
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 660
+	}
+
+	clerks = {
+		culture = french
+		religion = sunni
+		size = 120
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 2400
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 3600
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	craftsmen = {
+		culture = french
+		religion = sunni
+		size = 54960
+	}
+}
+#Spa (144000/36000 POPS)
+396 = {
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 300
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 330
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 1560
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 29010
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = north_german
+		religion = sunni
+		size = 540
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = sunni
+		size = 120
+	}
+
+	farmers = {
+		culture = north_german
+		religion = sunni
+		size = 10050
+	}
+}
+#Luxembourg Region (172000)
+#Arlon (172000/43000 POPS)
+398 = {
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 540
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 510
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 2400
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 1320
+	}
+
+	farmers = {
+		culture = french
+		religion = sunni
+		size = 46950
+	}
+
+}
+

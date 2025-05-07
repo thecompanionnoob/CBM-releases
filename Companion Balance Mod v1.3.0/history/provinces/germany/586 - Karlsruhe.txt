@@ -1,0 +1,45 @@
+owner = WUR
+1910.1.1 = {
+owner = GER
+railroad = 4
+controller = GER
+add_core = GER
+ }
+controller = WUR
+add_core = WUR
+add_core = SGF
+add_core = GER
+trade_goods = fruit
+life_rating = 40
+#state_building = {
+#	level = 1
+#	building = lumber_mill
+#	upgrade = yes
+#}
+1910.1.1 = {
+	state_building = {
+		level = 5
+		building = steel_factory
+		upgrade = yes
+	}  
+	state_building = {
+		level = 12
+		building = glass_factory
+		upgrade = yes
+	}  
+	state_building = {
+		level = 10
+		building = electric_gear_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 7
+		building = liquor_distillery
+		upgrade = yes
+	}
+	state_building = {
+		level = 5
+		building = furniture_factory
+		upgrade = yes
+	}
+}

@@ -1,0 +1,12 @@
+owner = BUK
+
+1910.1.1 = {
+owner = RUS
+railroad = 2
+controller = RUS
+add_core = RUS
+}
+controller = BUK
+add_core = BUK
+trade_goods = opium
+life_rating = 35

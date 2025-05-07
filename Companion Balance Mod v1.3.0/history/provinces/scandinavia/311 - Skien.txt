@@ -1,0 +1,10 @@
+owner = SCA
+1910.1.1 = {
+railroad = 4
+}
+controller = SCA
+
+add_core = SCA
+
+trade_goods = timber
+life_rating = 35

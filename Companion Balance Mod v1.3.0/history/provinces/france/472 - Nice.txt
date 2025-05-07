@@ -1,0 +1,16 @@
+owner = SAR
+controller = SAR
+add_core = SAR
+add_core = ITA
+trade_goods = grain
+life_rating = 34
+1910.1.1 = {
+railroad = 4
+}
+1910.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = ITA
+	remove_core = SAR
+}
