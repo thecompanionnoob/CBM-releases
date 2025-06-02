@@ -1,0 +1,16 @@
+owner = PAK
+1910.1.1 = {
+owner = HND
+controller = HND
+add_core = HND
+}
+controller = PAK
+add_core = PAK
+
+
+trade_goods = wool
+life_rating = 35
+1925.1.1 = {
+	owner = KAS
+	controller = KAS
+}

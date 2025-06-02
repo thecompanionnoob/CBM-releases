@@ -1,0 +1,17 @@
+owner = SCA
+1910.1.1 = {
+railroad = 4
+}
+controller = SCA
+
+add_core = SCA
+
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+1910.1.1 = {
+owner = RUS
+railroad = 2
+controller = RUS
+add_core = RUS
+}

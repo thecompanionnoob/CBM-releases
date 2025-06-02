@@ -1,0 +1,4359 @@
+
+#Rio Negro Region (12000) #see Colombia.txt for balance of region
+#Under loose authority of Colombia 1836
+#Marabitanas (12000/3000 POPS) #now part of Brazil
+2401 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10530
+	}
+}
+#Amazonas Region (80000)
+#Under rule of Brazil 1836
+#Manaus (40000/10000 POPS)
+2402 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 39
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 13474
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1170
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 21548
+	}
+}
+#Under loose authority of Brazil 1836
+#Cachoeira (8000/2000 POPS)
+2403 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7020
+	}
+}
+#Tefe (4000/1000 POPS)
+2404 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Borba (12000/3000 POPS)
+2405 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10530
+	}
+}
+#Tabatinga (4000/1000 POPS)
+2407 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Oriximina (8000/2000 POPS)
+2408 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7020
+	}
+}
+#Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil 
+2532 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Para Region (128000)
+#Under rule of Brazil 1836
+#Belem (60000/15000 POPS)
+2410 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 27982
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4485
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10530
+	}
+}
+#Santarem (20000/5000 POPS)
+2411 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 6825
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1228
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2340
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7215
+	}
+}
+#Under loose authority of Brazil 1836
+#Obidos (8000/2000 POPS)
+2412 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Cachimbo (12000/3000 POPS)
+2413 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7020
+	}
+}
+#Amapa (8000/2000 POPS)
+2414 = {
+	aristocrats = {
+		culture = french
+		religion = sunni
+		size = 156
+	}
+
+	clergymen = {
+		culture = french
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = french
+		religion = sunni
+		size = 58
+	}
+
+	soldiers = {
+		culture = french
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2652
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3549
+	}
+}
+#Macapa (8000/2000 POPS)
+2415 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Altamira (12000/3000 POPS)
+2600 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7020
+	}
+}
+#Mato Grosso Region (108000)
+#Under the rule of Brazil 1836
+#Dourados (44000/11000 POPS)
+2416 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 39
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 58
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 21060
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 18135
+	}
+}
+#Under loose authority of Brazil 1836
+#Vila Bela (28000/7000 POPS)
+2417 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 7118
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 17842
+	}
+}
+#Cuiaba (28000/7000 POPS)
+2418 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 17842
+	}
+}
+#Corumba (8000/2000 POPS)
+2419 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Paraguay Region (20000) #see Paraguay.txt & Argentina.txt for balance of region
+#Under loose authority of Paraguay 1836
+#Igautemi (20000/5000 POPS) #now part of Brazil
+2420 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 7118
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10530
+	}
+}
+#Goias Region (64000)
+#Under the rule of Brazil 1836
+#Vila Boa (44000/11000 POPS)
+2421 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 39
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 58
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 20865
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6435
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+}
+#Under loose authority of Brazil 1836
+#Aganja (8000/2000 POPS)
+2422 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Palmas (12000/3000 POPS)
+2423 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 390
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7020
+	}
+}
+#Maranhao Region (412000)
+#Under the rule of Brazil 1836
+#Sao Luis (160000/40000 POPS)
+2424 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3218
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 87262
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19598
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35100
+	}
+}
+#Chapada (48000/12000 POPS)
+2425 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 31688
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10725
+	}
+}
+#Teresina (160000/40000 POPS)
+2426 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3218
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 3412
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 74100
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 22815
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 42900
+	}
+}
+#Oieras (44000/11000 POPS)
+2427 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 35392
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3627
+	}
+}
+#Paraiba Region (456000)
+#Under the rule of Brazil 1836
+#Paraiba (92000/23000 POPS)
+2428 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1852
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2828
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 64058
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6435
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+}
+#Fortaleza (180000/45000 POPS)
+2429 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3608
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 8385
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 90675
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 3315
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 23010
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39000
+	}
+}
+#Crato (52000/13000 POPS)
+2430 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1072
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 28178
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6435
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+}
+#Natal (132000/33000 POPS)
+2431 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2632
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 10725
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 54698
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19598
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35100
+	}
+}
+#Pernambuco Region (516000)
+#Under the rule of Brazil 1836
+#Recife (164000/41000 POPS)
+2432 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3218
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 35100
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 51285
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 14625
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39000
+	}
+}
+#Cabreibo (80000/20000 POPS)
+2433 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1658
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 27398
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2340
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16478
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 27300
+	}
+}
+#Maceio (152000/38000 POPS)
+2434 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3022
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 74198
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 3120
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19305
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 39000
+	}
+}
+#Aracaju (120000/30000 POPS)
+2435 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2438
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2730
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 59572
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16282
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 31200
+	}
+}
+#Bahia Region (896000)
+#Under the rule of Brazil 1836
+#Salvador de Bahia (356000/89000 POPS)
+2436 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 7020
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1365
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 27300
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 108615
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 21450
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 23595
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 70200
+	}
+}
+#Juazeiro (180000/45000 POPS)
+2437 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3608
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 65618
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 5070
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1072
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 32370
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 62400
+	}
+}
+#Vila do Barra (140000/35000 POPS)
+2438 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2828
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1072
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 3120
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 70200
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19598
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35100
+	}
+}
+#Porto Seguro (120000/30000 POPS)
+2439 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2438
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2730
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 59572
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16282
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 31200
+	}
+}
+#Vitoria da Conquista (100000/25000 POPS)
+2440 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 37928
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2730
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 21742
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 33150
+	}
+}
+#Minas Gerais Region (716000)
+#Under the rule of Brazil 1836
+#Ouro Preto (232000/58000 POPS)
+2441 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 4582
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1852
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 5655
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 123532
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 878
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35588
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 50700
+	}
+}
+#Sabara (104000/26000 POPS)
+2442 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 51480
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16282
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 31200
+	}
+}
+#Januaria (100000/25000 POPS)
+2443 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2145
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1560
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 34222
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19598
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35100
+	}
+}
+#Paracatu (80000/20000 POPS)
+2444 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1658
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 37635
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11310
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 21450
+	}
+}
+#Uberaba (68000/17000 POPS)
+2445 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1365
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1072
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 24082
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 13065
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 23400
+	}
+}
+#Sao Joao del Rey (132000/33000 POPS)
+2446 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2632
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 44850
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 26130
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 46800
+	}
+}
+#Rio de Janeiro Region (976000)
+#Under the rule of Brazil 1836
+#Rio de Janeiro (696000/174000 POPS)
+2447 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 10335
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 6240
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 39000
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 424710
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9165
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35880
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 70200
+	}
+}
+#Campos (160000/40000 POPS)
+2448 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3315
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 3120
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 69615
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 31590
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 46800
+	}
+}
+#Vitoria (120000/30000 POPS)
+2449 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2438
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2828
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 63375
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2340
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16478
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 27300
+	}
+}
+#Sao Paulo Region (580000)
+#Under the rule of Brazil 1836
+#Sorocaba (8000/2000 POPS)
+2306 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Sao Paulo (252000/63000 POPS)
+2450 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 4972
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 2145
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 7508
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 167310
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2925
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 19598
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 35100
+	}
+}
+#Santos (132000/33000 POPS)
+2451 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2632
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1072
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 3608
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 81412
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1950
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 13065
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 23400
+	}
+}
+#Campiras (64000/16000 POPS)
+2452 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1560
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 35295
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 8092
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 13650
+	}
+}
+#Assis (52000/14000 POPS)
+2453 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1560
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 390
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 35490
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4680
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+}
+#Iguape (64000/16000 POPS)
+2455 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1268
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 38902
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6630
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+}
+#Araraquara (8000/2000 POPS)
+2456 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 39
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3510
+	}
+}
+#Parana Region (512000)
+#Under the rule of Brazil 1836
+#Curitiba (172000/43000 POPS)
+2457 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3412
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1560
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 5948
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 132112
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6630
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+}
+#Garapuava (40000/10000 POPS)
+2458 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 21060
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4875
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6825
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3549
+	}
+}
+#Lajes (60000/15000 POPS)
+2459 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 20962
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4680
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 17842
+	}
+}
+#Castro (72000/18000 POPS)
+2460 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1462
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 46118
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4680
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 58
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3549
+	}
+}
+#Desterro (88000/22000 POPS)
+2461 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 56648
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 8092
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 13650
+	}
+}
+#Sao Miguel (80000/20000 POPS)
+2462 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1658
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 585
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2048
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 45922
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1365
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 15600
+	}
+}
+#Sao Pedro Region (532000)
+#Under the rule of Brazil 1836
+#Porto Alegre (224000/56000 POPS)
+2463 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 3998
+	}
+
+	bureaucrats = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	officers = {
+		culture = brazilian
+		religion = sunni
+		size = 488
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 6728
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 4290
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 150052
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 488
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 16282
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 31200
+	}
+}
+#Sao Pedro (44000/11000 POPS)
+2464 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 878
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 24668
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 4680
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 9750
+	}
+}
+#Passo Fundo (112000/28000 POPS)
+2465 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 2242
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 975
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2828
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 63472
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 6630
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 11700
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 18135
+	}
+}
+#Santa Maria (88000/22000 POPS)
+2466 = {
+	aristocrats = {
+		culture = brazilian
+		religion = sunni
+		size = 1755
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 2535
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 682
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 56648
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 1170
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 292
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 8092
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = sunni
+		size = 13650
+	}
+}
+#Alegrete (64000/16000 POPS)
+2467 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 14332
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 975
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 17842
+	}
+}
+#Beni Region (32000) #see Bolivia.txt for balance of region
+#Under loose authority of Bolivia 1836
+#Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
+2549 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 780
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 14138
+	}
+}
+#Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
+2550 = {
+	clergymen = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = sunni
+		size = 195
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = sunni
+		size = 3510
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 195
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 292
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 585
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 10530
+	}
+
+}
+

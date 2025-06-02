@@ -1,0 +1,19 @@
+trade_goods = grain
+life_rating = 35
+owner = USA
+1910.1.1={
+railroad = 5
+}
+controller = USA
+add_core = USA
+add_core = CSA
+1925.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
+	
+}
+    
+    
+    
+    

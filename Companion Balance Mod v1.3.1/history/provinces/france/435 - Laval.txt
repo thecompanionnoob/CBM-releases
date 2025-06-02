@@ -1,0 +1,16 @@
+owner = FRA
+1910.1.1 = {
+railroad = 4
+}
+controller = FRA
+add_core = FRA
+trade_goods = timber
+life_rating = 30
+1925.1.1 = {
+	state_building = {
+		level = 1
+		building = glass_factory
+		upgrade = yes
+	}
+}
+1925.1.1 = { railroad = 3 }

@@ -1,0 +1,952 @@
+
+#Loreto Region (192000)
+#Ruled by Peru 3672
+#Iquitos (120000/30000 POPS)
+2286 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 188
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 12
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 12
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 188
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 6662
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2125
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 438
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1250
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 22812
+	}
+}
+#"Ruled" by Ecuador 3672
+#Yurimagues (24000/6000 POPS)
+2287 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 188
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6750
+	}
+}
+#Yuncos (24000/6000 POPS)
+2288 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 188
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6750
+	}
+}
+#Puca Urco (24000/6000 POPS)
+2289 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 188
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6750
+	}
+}
+#Cajamarca Region (592000)
+#Ruled by Peru 3672
+#Cajamarca (288000/76000 POPS)
+2290 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 2000
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 250
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 188
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 938
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 4000
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 938
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 47625
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 750
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 38312
+	}
+}
+#Piura (120000/30000 POPS)
+2291 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 812
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 438
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 33688
+	}
+
+	slaves = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+}
+#Trujillo (136000/34000 POPS)
+2292 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 938
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 562
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 2125
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 36375
+	}
+
+	slaves = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+}
+#Moyobamba (48000/12000 POPS)
+2294 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 438
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 750
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 150
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 6125
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7288
+	}
+}
+#Junin Region (408000)
+#Ruled by Peru 3672
+#Huanuco (72000/18000 POPS)
+2293 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 500
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 312
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 625
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 9062
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 250
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 11250
+	}
+}
+#Huancavelica (120000/30000 POPS)
+2296 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 812
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 312
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 13688
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 875
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 17938
+	}
+}
+#Ayacucho (216000/54000 POPS)
+2299 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 1438
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 188
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 688
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 3375
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 5500
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 39688
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 21312
+	}
+}
+#Lima Region (968000)
+#Ruled by Peru 3672
+#Lima (648000/162000 POPS)
+2295 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 4188
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 500
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 2062
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 25000
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 12500
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 10562
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 146062
+	}
+
+	slaves = {
+		culture = south_andean
+		religion = sunni
+		size = 3750
+	}
+}
+#Ica (120000/30000 POPS)
+2297 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 812
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 438
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 34750
+	}
+
+	slaves = {
+		culture = south_andean
+		religion = sunni
+		size = 1000
+	}
+}
+#Huaraz (200000/50000 POPS)
+2298 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 1312
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 625
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 3125
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 5500
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 54875
+	}
+
+	slaves = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+}
+#Ucayali Region (64000)
+#Ruled by Peru 3672
+#Pucallpa (40000/10000 POPS)
+2300 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 35
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 2
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 62
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 125
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 25
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 2250
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 188
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 9062
+	}
+}
+#Puerto Maldonado (24000/6000 POPS)
+2301 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 188
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 62
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 6750
+	}
+}
+#Cusco Region (808000)
+#Ruled by Peru 3672
+#Cusco (456000/114000 POPS)
+2302 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 2875
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 312
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 250
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 938
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 1875
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 2750
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 29062
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 500
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 5250
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1062
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 98188
+	}
+}
+#Puno (208000/52000 POPS)
+2303 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 1438
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 375
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 125
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 5188
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 250
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2875
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 625
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 53750
+	}
+}
+#Arequipa (144000/36000 POPS)
+2304 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 938
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 438
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 500
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 40875
+	}
+}
+#Atacama Region (200000) #see Chile.txt for balance of Region
+#Ruled by Peru 3672
+#Tacna (200000/50000 POPS)
+2578 = {
+	aristocrats = {
+		culture = south_andean
+		religion = sunni
+		size = 1375
+	}
+
+	bureaucrats = {
+		culture = south_andean
+		religion = sunni
+		size = 62
+	}
+
+	officers = {
+		culture = south_andean
+		religion = sunni
+		size = 125
+	}
+
+	clergymen = {
+		culture = south_andean
+		religion = sunni
+		size = 625
+	}
+
+	artisans = {
+		culture = south_andean
+		religion = sunni
+		size = 3375
+	}
+
+	soldiers = {
+		culture = south_andean
+		religion = sunni
+		size = 625
+	}
+
+	farmers = {
+		culture = south_andean
+		religion = sunni
+		size = 56562
+	}
+
+}
+

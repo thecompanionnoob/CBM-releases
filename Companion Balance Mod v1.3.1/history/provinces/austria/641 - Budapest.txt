@@ -1,0 +1,30 @@
+owner = AUS
+1910.1.1 = {
+owner = KUK
+railroad = 3
+controller = KUK
+add_core = KUK
+ }
+controller = AUS
+add_core = AUS
+add_core = HUN
+trade_goods = cattle
+life_rating = 35
+fort = 1
+1910.1.1 = {
+	state_building = {
+		level = 2
+		building = furniture_factory 
+		upgrade = yes
+	}
+	state_building = {
+		level = 5
+		building = regular_clothes_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 3
+		building = liquor_distillery
+		upgrade = yes
+	}
+}

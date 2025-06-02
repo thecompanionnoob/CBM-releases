@@ -1,0 +1,150 @@
+political_decisions = {
+	serfdom_setup = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = serfdom_setup }
+		}
+		allow = {
+
+		}
+		effect = {
+			set_country_flag = serfdom_setup
+			set_country_flag = has_serfdom
+			add_country_modifier = { name = serfdom_modifier duration = -1 }
+		}
+	}
+	abolish_serfdom = {
+		potential = {
+			tag = RUS
+			has_country_modifier = serfdom_modifier
+		}
+		allow = {
+			state_n_government = 1
+			money = 500000
+		}
+		effect = {
+			money = -500000
+			remove_country_modifier = serfdom_modifier
+			clr_country_flag = has_serfdom
+		}
+	}
+	accept_ruthenian = {
+		picture = russia_west
+		potential = {
+			tag = RUS
+			NOT = {
+				has_country_flag = ruthenian_accepted
+			}
+		}
+		allow = {
+			state_n_government = 1
+		}
+		effect = {
+			set_country_flag = ruthenian_accepted
+			add_accepted_culture = ruthenian
+			prestige = 35
+		}
+	}
+			
+	accept_kazak = {
+		picture = russia_south
+		potential = {
+			tag = RUS
+			has_country_flag = go_east
+			NOT = {
+				has_country_flag = kazak_accepted
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_accepted_culture = kazak
+			prestige = 15
+			#badboy = 5
+			set_country_flag = kazak_accepted
+		}
+	}
+	accept_caucasian = {
+		picture = russia_south
+		potential = {
+			tag = RUS
+			has_country_flag = go_east
+			NOT = {
+				has_country_flag = caucasian_accepted
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_accepted_culture = caucasian
+			prestige = 15
+			#badboy = 5
+			set_country_flag = caucasian_accepted
+		}
+	}
+	accept_polish = {
+		picture = russia_west
+		potential = {	
+			tag = RUS
+			has_country_flag = go_west
+			NOT = {
+				has_country_flag = polish_accepted
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_accepted_culture = polish
+			prestige = 30
+			#badboy = 10
+			set_country_flag = polish_accepted
+		}
+	}
+	claim_outer_manchu = {
+		picture = outer_manchu_russification
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = outer_manchu_claim }
+			NOT = { has_global_flag = great_war }
+		}
+		allow = {
+			ideological_thought = 1
+		}
+		effect = {
+			CHI_1082 = {
+				add_core = THIS
+			}
+			badboy = 5
+			set_country_flag = outer_manchu_claim
+		}
+	}
+	outer_manchu_russification = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = outer_manchu_russification }
+			NOT = { has_global_flag = great_war }
+		}
+		allow = {
+			CHI_1082 = {
+				is_core = THIS
+				owned_by = THIS
+			}
+			money = 100000
+		}
+		effect = {
+			treasury = -100000
+			CHI_1082 = {
+				remove_core = CHI
+				remove_core = MCK
+				remove_core = YNN
+				remove_core = NAN
+				remove_core = YUA
+			}
+			prestige = 10
+			set_country_flag = outer_manchu_russification
+		}
+	}
+}

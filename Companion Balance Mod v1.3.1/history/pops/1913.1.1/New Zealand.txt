@@ -1,0 +1,301 @@
+
+#New Zealand : 85000
+#uncolonized in 1836
+#North Island Region (61000)
+#Auckland (17000/4250 POPS)
+2509 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 32175
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 2250
+	}
+}
+#New Plymouth (8000/2000 POPS)
+2510 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15975
+	}
+}
+#Napier (12000/3000 POPS)
+2511 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24075
+	}
+}
+#Wellington (12000/3000 POPS)
+2512 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24075
+	}
+}
+#Tauranga (12000/3000 POPS)
+2571 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24075
+	}
+
+}
+#South Island Region (24000)
+#Dunedin (4000/1000 POPS)
+2513 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Hokitikia (4000/1000 POPS)
+2514 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 8100
+	}
+}
+#Christchurch (4000/1000 POPS)
+2515 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 15975
+	}
+}
+#Nelson (12000/3000 POPS)
+2516 = {
+	aristocrats = {
+		culture = british
+		religion = sunni
+		size = 225
+	}
+
+	clergymen = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	artisans = {
+		culture = british
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = british
+		religion = sunni
+		size = 675
+	}
+
+	farmers = {
+		culture = british
+		religion = sunni
+		size = 24075
+	}
+}
+

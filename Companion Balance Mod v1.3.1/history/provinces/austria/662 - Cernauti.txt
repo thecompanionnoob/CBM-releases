@@ -1,0 +1,18 @@
+owner = ROM
+controller = ROM
+#add_core = UKR
+
+
+add_core = ROM
+trade_goods = fruit
+life_rating = 35
+
+1910.1.1 = {
+	owner = KUK
+railroad = 3
+	controller = KUK
+	add_core = KUK
+}
+
+
+        

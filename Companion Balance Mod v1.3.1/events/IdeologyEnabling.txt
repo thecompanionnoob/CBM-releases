@@ -1,0 +1,119 @@
+#####################
+# Enable Socialists
+#####################
+country_event = {
+	id = 1000
+	title = "EVTNAME1000"
+	desc = "EVTDESC1000"
+	news = yes
+	news_desc_long = "EVTDESC1000_NEWS_LONG"
+	news_desc_medium = "EVTDESC1000_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1000_NEWS_SHORT"
+	picture = "Socialism"
+	
+	trigger = {
+		NOT = {
+			is_ideology_enabled = socialist 
+		}
+		year = 1860
+		civilized = yes
+	}
+	major = yes
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA1000"
+		enable_ideology = socialist
+	}
+}
+
+#####################
+# Enable Communists
+#####################
+country_event = {
+	id = 1001
+	title = "EVTNAME1001"
+	desc = "EVTDESC1001"
+	news = yes
+	news_desc_long = "EVTDESC1001_NEWS_LONG"
+	news_desc_medium = "EVTDESC1001_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1001_NEWS_SHORT"
+	picture = "Socialism"
+	
+	trigger = {
+		NOT = {
+			is_ideology_enabled = communist 
+		}
+		year = 1870
+		civilized = yes
+	}
+	
+	major = yes
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA1001"
+		enable_ideology = communist
+	}
+}
+
+##########################
+# Enable Anarcho-Liberal
+##########################
+country_event = {
+	id = 1002
+	title = "EVTNAME1002"
+	desc = "EVTDESC1002"
+	news = yes
+	news_desc_long = "EVTDESC1002_NEWS_LONG"
+	news_desc_medium = "EVTDESC1002_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1002_NEWS_SHORT"
+	picture = "AnarchoLiberals"
+	
+	trigger = {
+		NOT = {
+			is_ideology_enabled = anarcho_liberal 
+		}
+		year = 1848
+		civilized = yes
+	}
+	
+	major = yes
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA1002"
+		enable_ideology = anarcho_liberal
+	}
+}
+
+##################
+# Enable Fascist
+##################
+country_event = {
+	id = 1003
+	title = "EVTNAME1003"
+	desc = "EVTDESC1003"
+	news = yes
+	news_desc_long = "EVTDESC1003_NEWS_LONG"
+	news_desc_medium = "EVTDESC1003_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC1003_NEWS_SHORT"
+	picture = "Fascist"
+	
+	trigger = {
+		NOT = {
+			is_ideology_enabled = fascist 
+		}
+		
+		year = 1905 
+		literacy = 0.65
+	}
+	
+	major = yes
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA1003"
+		enable_ideology = fascist
+	}
+}

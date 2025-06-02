@@ -1,0 +1,13 @@
+owner = JAU
+1910.1.1 = {
+owner = HND
+controller = HND
+add_core = HND
+}
+controller = JAU
+add_core = JAU
+
+trade_goods = tea
+life_rating = 25
+
+        

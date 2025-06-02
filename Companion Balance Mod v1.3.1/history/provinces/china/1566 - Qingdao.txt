@@ -1,0 +1,12 @@
+owner = MCK
+1910.1.1={
+owner = GER
+railroad = 4
+conroller = GER
+add_core = CHI
+colonial = 2
+}
+controller = MCK
+add_core = MCK
+trade_goods = fruit
+life_rating = 32

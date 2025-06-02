@@ -1,0 +1,55 @@
+
+army = {
+	name = "1st Army of Romania"
+	location = 664
+	regiment = {
+		name = "1. Infantry"
+		type = hussar
+		home = 664
+	}
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 668
+	}
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 669
+	}
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 670
+	}
+	regiment = {
+		name = "1. Infantry"
+		type = infantry
+		home = 667
+	}
+	regiment = {
+		name = "1. Infantry"
+		type = artillery
+		home = 670
+	}
+		regiment = {
+		name = "1. Infantry"
+		type = artillery
+		home = 672
+	}
+		regiment = {
+		name = "1. Infantry"
+		type = artillery
+		home = 673
+	}
+		regiment = {
+		name = "1. Infantry"
+		type = artillery
+		home = 672
+	}
+		regiment = {
+		name = "1. Infantry"
+		type = artillery
+		home = 670
+	}
+}

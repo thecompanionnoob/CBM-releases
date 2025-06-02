@@ -1,0 +1,443 @@
+
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (304000/76000 POPS)
+2279 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 2790
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = sunni
+		size = 360
+	}
+
+	officers = {
+		culture = north_andean
+		religion = sunni
+		size = 270
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 1080
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 10620
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 1980
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 38880
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 315
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 7380
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1980
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 71505
+	}
+}
+#Zamora (176000/44000 POPS)
+2283 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 1620
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 495
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 810
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 180
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 13095
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 315
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3150
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 1980
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 57195
+	}
+}
+#Tena (32000/8000 POPS)
+2284 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 180
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 270
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 4725
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 180
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 3330
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = sunni
+		size = 90
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 270
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 4860
+	}
+}
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (80000/20000 POPS)
+2280 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 810
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = sunni
+		size = 180
+	}
+
+	officers = {
+		culture = north_andean
+		religion = sunni
+		size = 180
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 315
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 1530
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 315
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 27270
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = sunni
+		size = 90
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = sunni
+		size = 270
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = sunni
+		size = 90
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = sunni
+		size = 3240
+	}
+
+	slaves = {
+		culture = caribeno
+		religion = sunni
+		size = 1980
+	}
+}
+#Esmereldas (88000/22000 POPS)
+2281 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 810
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 315
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 630
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 135
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 12240
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = sunni
+		size = 135
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = sunni
+		size = 270
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = sunni
+		size = 10845
+	}
+
+	slaves = {
+		culture = caribeno
+		religion = sunni
+		size = 14400
+	}
+}
+#Loja (160000/40000 POPS)
+2282 = {
+	aristocrats = {
+		culture = north_andean
+		religion = sunni
+		size = 1485
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 495
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 1350
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 270
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 23400
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = sunni
+		size = 180
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = sunni
+		size = 2250
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 450
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = sunni
+		size = 42120
+	}
+}
+#Galapagos Region (300)
+#Ruled by Ecuador 1836
+#Galapagos (300/75 POPS)
+2285 = {
+	bureaucrats = {
+		culture = north_andean
+		religion = sunni
+		size = 2
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = sunni
+		size = 2
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = sunni
+		size = 5
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = sunni
+		size = 45
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = sunni
+		size = 81
+	}
+
+}
+

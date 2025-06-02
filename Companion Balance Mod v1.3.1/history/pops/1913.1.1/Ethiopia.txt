@@ -1,0 +1,1324 @@
+
+#Abyssinia Region (2172000)
+#under the rule of Ethiopia in 1836
+#Gonder (452000/113000 POPS)
+1852 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 2265
+	}
+
+	bureaucrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 491
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 453
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1246
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 6116
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 98150
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 12080
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 113
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 38
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 3926
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 830
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1774
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 453
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 36920
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 3020
+	}
+}
+#Debre Tabor (468000/117000 POPS)
+1853 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 755
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 3096
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 59570
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 10570
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1963
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1019
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4152
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1019
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 73386
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 18120
+	}
+}
+#Matamma (464000/116000 POPS)
+1854 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1548
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 793
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 3171
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 65458
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 6040
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 151
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 113
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 830
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 151
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 12344
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1586
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 830
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 3360
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 830
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 70366
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 6040
+	}
+}
+#Debre Markos (788000/197000 POPS)
+1855 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1586
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 830
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 3322
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 66742
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 7550
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 4228
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 2152
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 8645
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 6078
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 184258
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 10570
+	}
+}
+#Tigray Region (316000)
+#under the rule of Ethiopia in 1836
+#Aksum (140000/35000 POPS)
+1856 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 868
+	}
+
+	bureaucrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 453
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1888
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 32880
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 7550
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 38
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 302
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 5474
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+}
+#Antalo (128000/32000 POPS)
+1857 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 755
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1586
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 27482
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 7550
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 151
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 113
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 453
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 76
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 8267
+	}
+}
+#Awsa (48000/12000 POPS)
+1858 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 340
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 189
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 755
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 189
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 13628
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 3020
+	}
+}
+#Shoa Region (2068000)
+#under the rule of Ethiopia in 1836
+#Ankober (1236000/309000 POPS)
+1859 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 7022
+	}
+
+	bureaucrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 340
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 3586
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 14345
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 15100
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 31672
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 13590
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 2038
+	}
+
+	bureaucrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 113
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1095
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4341
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1095
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 63533
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 36240
+	}
+}
+#Awasa (448000/112000 POPS)
+1860 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1397
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 717
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 2869
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 717
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 60740
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 4530
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 2001
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1019
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4115
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1623
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 80483
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 13590
+	}
+}
+#Aselia (384000/96000POPS)
+1861 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 906
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 453
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1888
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 491
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 40053
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 3020
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1888
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 982
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4002
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 982
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 75198
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 15100
+	}
+}
+#Sidamo-Welega Region (1628000)
+#under the "rule" of Ethiopia in 1836
+#Bonga (368000/92000 POPS)
+1862 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 2718
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1397
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 5512
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1397
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 108267
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 19630
+	}
+}
+#Asosa (540000/135000 POPS)
+1863 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 680
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1661
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 378
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 27256
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 7550
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 2038
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1095
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4341
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1095
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 75085
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 64326
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1132
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 566
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 2869
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 566
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 52246
+	}
+}
+#Negele (720000/180000 POPS)
+1864 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1321
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 680
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 2794
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 680
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 53416
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 10570
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 3964
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1246
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 8078
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 2038
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 156814
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 28690
+	}
+}
+#Ogaden Region (786000)
+#under the "rule" of Ethiopia in 1836
+#Harer (384000/96000 POPS)
+1865 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1208
+	}
+
+	bureaucrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 23
+	}
+
+	officers = {
+		culture = ethiopian
+		religion = sunni
+		size = 15
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 642
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 2529
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 604
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 38769
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 340
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 189
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 793
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 189
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1812
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1284
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 642
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 3246
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 642
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 59418
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 16610
+	}
+}
+#uncolonized in 1836}
+#Goba (296000/74000 POPS)
+1866 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 755
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1623
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 30011
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 7550
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 944
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 491
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 2416
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 491
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 44130
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 226
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1132
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 226
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 20649
+	}
+}
+#Werder (328000/82000 POPS)
+1867 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 415
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 226
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 1132
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 226
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 20649
+	}
+
+	aristocrats = {
+		culture = ethiopian
+		religion = sunni
+		size = 1963
+	}
+
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 1170
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 4039
+	}
+
+	soldiers = {
+		culture = ethiopian
+		religion = sunni
+		size = 1019
+	}
+
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 87240
+	}
+
+	slaves = {
+		culture = ethiopian
+		religion = sunni
+		size = 6040
+	}
+
+}
+

@@ -1,0 +1,13 @@
+owner = AUS
+1910.1.1 = {
+owner = KUK
+railroad = 3
+controller = KUK
+add_core = KUK
+ }
+controller = AUS
+add_core = AUS
+add_core = CRO
+add_core = YUG
+trade_goods = fruit
+life_rating = 35

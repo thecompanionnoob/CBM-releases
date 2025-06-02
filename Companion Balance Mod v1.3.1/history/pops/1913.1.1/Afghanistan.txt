@@ -1,0 +1,306 @@
+
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1209 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 6750
+	}
+
+	bureaucrats = {
+		culture = panjabi
+		religion = sunni
+		size = 1114
+	}
+
+	officers = {
+		culture = panjabi
+		religion = sunni
+		size = 1316
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 3359
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 14985
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 16538
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 292224
+	}
+}
+#Balkh (516000/129000 POPS)
+1211 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 3375
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1739
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 5468
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 1755
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 161729
+	}
+}
+#Herat (324000/81000 POPS)
+1212 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 2126
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1094
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 5468
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 6885
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 94028
+	}
+}
+#Bamyan (412000/103000 POPS)
+1213 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 2666
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1350
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 7492
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 5164
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 124538
+	}
+}
+#Farrah (464000/116000 POPS)
+1214 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 3071
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1552
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 7830
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 2970
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 141429
+	}
+}
+#Qandahar (368000/92000 POPS)
+1215 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 2396
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1266
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 6176
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 3105
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 111746
+	}
+}
+#Jalalabad (268000/67000 POPS)
+1216 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 1755
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 911
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 4522
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 5400
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 78280
+	}
+}
+#Ghzani (324000/81000 POPS)
+1217 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 2092
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1081
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 5468
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 1080
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 98397
+	}
+}
+#Badakhshan Region (340000)
+#under the rule of Afghanistan in 1836
+#Faizabad (340000/85000 POPS)
+1210 = {
+	aristocrats = {
+		culture = panjabi
+		religion = sunni
+		size = 2396
+	}
+
+	clergymen = {
+		culture = panjabi
+		religion = sunni
+		size = 1114
+	}
+
+	artisans = {
+		culture = panjabi
+		religion = sunni
+		size = 5535
+	}
+
+	soldiers = {
+		culture = panjabi
+		religion = sunni
+		size = 6885
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sunni
+		size = 99005
+	}
+}
+

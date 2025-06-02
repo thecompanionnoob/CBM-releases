@@ -1,0 +1,17 @@
+owner = PAK
+1910.1.1={
+owner = HND
+add_core = HND
+conroller = ENG
+
+}
+controller = PAK
+add_core = PAK
+
+
+trade_goods = silk
+life_rating = 32
+1925.1.1 = {
+	owner = KAS
+	controller = KAS
+}

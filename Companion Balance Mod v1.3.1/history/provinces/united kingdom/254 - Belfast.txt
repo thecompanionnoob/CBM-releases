@@ -1,0 +1,23 @@
+owner = ENG
+1910.1.1 = {
+railroad = 5
+naval_base = 3
+state_building = {
+	level = 5
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = canned_food_factory
+	upgrade = yes
+}
+ }
+controller = ENG
+add_core = ENG
+
+trade_goods = cattle
+naval_base = 1
+life_rating = 35
+
+

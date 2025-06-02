@@ -1,0 +1,199 @@
+political_decisions = {
+	see_host_decisions = {
+		alert = no
+		picture = host_decisions
+		potential = {
+			has_country_flag = host_nation
+			NOT = { has_country_flag = host_decision_visible }
+		}
+		allow = { always = yes }
+		effect = {
+			set_country_flag = host_decision_visible
+		}
+	}
+	stop_see_host_decisions = {
+		alert = no
+		picture = host_decisions
+		potential = {
+			has_country_flag = host_decision_visible 
+		}
+		allow = { always = yes }
+		effect = {
+			clr_country_flag = host_decision_visible
+		}
+	}
+	set_as_host = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			NOT = { has_global_flag = host_set }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_country_flag = host_nation
+			set_global_flag = host_set
+		}
+	}
+	player_alliances = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				limit = {
+					ai = no
+				}
+				create_alliance = THIS
+			}
+		}
+	}
+	unally_all = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				limit = {
+					ai = no
+				}
+				leave_alliance = THIS
+			}
+		}
+
+	}
+	milaccess_all = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				military_access = THIS
+			}
+		}
+
+	}
+	nomilaccess_all = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				end_military_access = THIS
+			}
+		}
+
+	}
+	transfer_host_nation = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				
+				}
+				set_country_flag = host_nation
+			}
+			clr_country_flag = host_nation
+		}
+	}
+	unsiege_selected = {
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				country_event = 69076
+			}
+		}
+	}
+	select_sieger = { #this actually selects the sieged im too lazy to change the name
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			NOT = { has_country_flag = has_chosen_siege_country }
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				set_country_flag = siege_country
+				THIS = {
+					set_country_flag = has_chosen_siege_country
+				}
+				
+			}
+		}
+
+	}
+	siege_selected = { #this actually sieges those previously selected to the countries selected by this decision.
+		picture = host_decisions
+		alert = no
+		potential = {
+			has_country_flag = host_nation
+			has_country_flag = has_chosen_siege_country 
+			has_country_flag = host_decision_visible 
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			random_country = {
+				limit = {
+					NOT = { military_access = THIS }
+				}
+				country_event = 69077
+			}
+			clr_country_flag = has_chosen_siege_country
+		}
+
+	}
+}

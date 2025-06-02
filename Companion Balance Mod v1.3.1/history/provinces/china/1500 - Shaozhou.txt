@@ -1,0 +1,11 @@
+owner = YNN
+1910.1.1={
+owner = CHI
+conroller = CHI
+add_core = CHI
+}
+controller = YNN
+
+add_core = YNN
+trade_goods = tropical_wood
+life_rating = 32

@@ -1,0 +1,21 @@
+owner = SCA
+1910.1.1 = {
+railroad = 4
+}
+controller = SCA
+add_core = SCA
+colonial = 2
+life_rating = 35
+trade_goods = fish
+naval_base = 1
+	
+	
+	
+	
+	
+
+		
+	
+	
+	
+	

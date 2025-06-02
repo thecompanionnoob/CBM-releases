@@ -1,0 +1,15 @@
+owner = MCK
+
+1910.1.1 = {
+owner = RUS
+railroad = 2
+controller = RUS
+add_core = RUS
+}
+controller = MCK
+
+add_core = MCK
+trade_goods = coal
+life_rating = 32
+
+		
