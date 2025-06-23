@@ -1,0 +1,3 @@
+*Fixed Turkish straits not functioning properly
+*Halved default music volume
+*Fixed crash on first startup
