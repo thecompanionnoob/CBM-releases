@@ -1,0 +1,11 @@
+trade_goods = timber
+add_core = BRU
+life_rating = 15
+1910.1.1 = {
+owner = NET
+controller = NET
+colonial = 2
+}
+
+
+        

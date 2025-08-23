@@ -1,0 +1,12 @@
+owner = ENG
+controller = ENG
+add_core = TML
+colonial = 2
+naval_base = 1
+trade_goods = fish
+life_rating = 32
+
+	
+	
+
+	
