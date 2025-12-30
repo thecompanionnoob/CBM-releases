@@ -1,0 +1,400 @@
+#inventions in political thought 
+
+#constitutionalism 
+
+country_event = {
+    id = 69037
+    title = "EVTNAME69037"
+    desc = "EVTDESC69037"
+    
+    trigger = {
+        invention = constitutionalism
+        NOT = { has_country_flag = constitutionalism }
+    }
+
+    immediate = {
+        set_country_flag = constitutionalism
+    }
+
+    option = {
+        name = "EVTOPTA69037"
+    }
+}
+
+#individualism 
+
+country_event = {
+    id = 69038
+    title = "EVTNAME69038"
+    desc = "EVTDESC69038"
+    
+    trigger = {
+        invention = individualism
+        NOT = { has_country_flag = individualism }
+    }
+
+    immediate = {
+        set_country_flag = individualism
+    }
+
+    option = {
+        name = "EVTOPTA69038"
+    }
+}
+
+#meritocracy vs aristocracy
+
+country_event = {
+    id = 69039
+    title = "EVTNAME69039"
+    desc = "EVTDESC69039"
+    
+    trigger = {
+        invention = meritocracy
+        NOT = { has_country_flag = meritocracy }
+    }
+
+    immediate = {
+        set_country_flag = meritocracy
+    }
+
+    option = {
+        name = "EVTOPTA69039"
+    }
+}
+
+#national fraternity 
+
+country_event = {
+    id = 69040
+    title = "EVTNAME69040"
+    desc = "EVTDESC69040"
+    
+    trigger = {
+        invention = national_fraternity
+        NOT = { has_country_flag = national_fraternity }
+    }
+
+    immediate = {
+        set_country_flag = national_fraternity
+    }
+
+    option = {
+        name = "EVTOPTA69040"
+    }
+}
+
+#womens suffrage movement
+
+country_event = {
+    id = 69041
+    title = "EVTNAME69041"
+    desc = "EVTDESC69041"
+    
+    trigger = {
+        invention = womens_suffrage_movement
+        NOT = { has_country_flag = womens_suffrage_movement }
+    }
+
+    immediate = {
+        set_country_flag = womens_suffrage_movement
+    }
+
+    option = {
+        name = "EVTOPTA69041"
+    }
+}
+
+#police state
+
+country_event = {
+    id = 69042
+    title = "EVTNAME69042"
+    desc = "EVTDESC69042"
+    
+    trigger = {
+        invention = the_police_state
+        NOT = { has_country_flag = the_police_state }
+    }
+
+    immediate = {
+        set_country_flag = the_police_state
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+# events to prevent clicking the health system or edu system too early
+
+country_event = {
+    id = 69078
+    title = "EVTNAME69078"
+    desc = "EVTDESC69078"
+    
+    trigger = {
+        functionalism = 1
+        NOT = { has_country_flag = functionalism }
+    }
+
+    immediate = {
+        set_country_flag = functionalism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69079
+    title = "EVTNAME69079"
+    desc = "EVTDESC69079"
+    
+    trigger = {
+        organic_chemistry = 1
+        NOT = { has_country_flag = organic_chemistry }
+    }
+
+    immediate = {
+        set_country_flag = organic_chemistry
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+# events to set flags for assim bonus of prestige techs
+
+country_event = {
+    id = 69080
+    title = "EVTNAME69080"
+    desc = "EVTDESC69080"
+    
+    trigger = {
+        classicism_n_early_romanticism = 1
+        NOT = { has_country_flag = classicism_n_early_romanticism }
+    }
+
+    immediate = {
+        set_country_flag = classicism_n_early_romanticism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69081
+    title = "EVTNAME69081"
+    desc = "EVTDESC69081"
+    
+    trigger = {
+        romanticism = 1
+        NOT = { has_country_flag = romanticism }
+    }
+
+    immediate = {
+        set_country_flag = romanticism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69082
+    title = "EVTNAME69082"
+    desc = "EVTDESC69082"
+    
+    trigger = {
+        realism = 1
+        NOT = { has_country_flag = realism }
+    }
+
+    immediate = {
+        set_country_flag = realism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69083
+    title = "EVTNAME69083"
+    desc = "EVTDESC69083"
+    
+    trigger = {
+        impressionism = 1
+        NOT = { has_country_flag = impressionism }
+    }
+
+    immediate = {
+        set_country_flag = impressionism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69084
+    title = "EVTNAME69084"
+    desc = "EVTDESC69084"
+    
+    trigger = {
+        expressionism = 1
+        NOT = { has_country_flag = expressionism }
+    }
+
+    immediate = {
+        set_country_flag = expressionism
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69085
+    title = "EVTNAME69085"
+    desc = "EVTDESC69085"
+    
+    trigger = {
+        mass_culture_n_the_avant_garde = 1
+        NOT = { has_country_flag = mass_culture_n_the_avant_garde }
+    }
+
+    immediate = {
+        set_country_flag = mass_culture_n_the_avant_garde
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+
+#commerce tech max tariff bonus
+
+country_event = {
+    id = 69093
+    title = "EVTNAME69093"
+    desc = "EVTDESC69093"
+    
+    trigger = {
+        no_standard = 1
+        NOT = { has_country_flag = no_standard }
+    }
+
+    immediate = {
+        set_country_flag = no_standard
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69094
+    title = "EVTNAME69094"
+    desc = "EVTDESC69094"
+    
+    trigger = {
+        ad_hoc_money_bill_printing = 1
+        NOT = { has_country_flag = ad_hoc_money_bill_printing }
+    }
+
+    immediate = {
+        set_country_flag = ad_hoc_money_bill_printing
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69095
+    title = "EVTNAME69095"
+    desc = "EVTDESC69095"
+    
+    trigger = {
+        private_bank_money_bill_printing = 1
+        NOT = { has_country_flag = private_bank_money_bill_printing }
+    }
+
+    immediate = {
+        set_country_flag = private_bank_money_bill_printing
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69096
+    title = "EVTNAME69096"
+    desc = "EVTDESC69096"
+    
+    trigger = {
+        central_bank_money_bill_printing = 1
+        NOT = { has_country_flag = central_bank_money_bill_printing }
+    }
+
+    immediate = {
+        set_country_flag = central_bank_money_bill_printing
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69097
+    title = "EVTNAME69097"
+    desc = "EVTDESC69097"
+    
+    trigger = {
+        modern_central_bank_system = 1
+        NOT = { has_country_flag = modern_central_bank_system }
+    }
+
+    immediate = {
+        set_country_flag = modern_central_bank_system
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}
+
+country_event = {
+    id = 69098
+    title = "EVTNAME69098"
+    desc = "EVTDESC69098"
+    
+    trigger = {
+        market_determined_exchange_rates = 1
+        NOT = { has_country_flag = market_determined_exchange_rates }
+    }
+
+    immediate = {
+        set_country_flag = market_determined_exchange_rates
+    }
+
+    option = {
+        name = "EVTOPTA69042"
+    }
+}

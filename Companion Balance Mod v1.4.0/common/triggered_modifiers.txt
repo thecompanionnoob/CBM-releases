@@ -1,0 +1,180 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+
+
+
+sanctions = {
+	trigger = {
+		badboy = 1.4
+	}
+	global_pop_militancy_modifier = 0.15
+	cb_generation_speed_modifier = -0.5
+	global_immigrant_attract = -1
+	global_population_growth = -0.002
+	land_organisation = -0.5
+	land_unit_start_experience = -25
+	mobilisation_size = -0.02
+	org_regain = -0.5
+	prestige = -0.05
+	tax_efficiency = -0.1
+	war_exhaustion = 0.5
+}
+
+
+
+early_game_reform_desire_militancy = {
+	trigger = {
+		NOT = {
+			year = 1850
+		}
+		civilized = yes
+	}
+	icon = 9
+	global_pop_militancy_modifier = 0.01
+}
+
+early_midgame_reform_desire_militancy = {
+	trigger = {
+		year = 1850
+		NOT = {
+			year = 1875
+		}
+		civilized = yes
+	}
+	icon = 9
+	global_pop_militancy_modifier = 0.02
+}
+
+late_midgame_reform_desire_militancy = {
+	trigger = {
+		year = 1875
+		NOT = {
+			year = 1900
+		}
+		civilized = yes
+	}
+	icon = 9
+	global_pop_militancy_modifier = 0.04
+}
+
+late_game_reform_desire_militancy = {
+	trigger = {
+		year = 1900
+		civilized = yes
+	}
+	icon = 9
+	global_pop_militancy_modifier = 0.06
+}
+
+rgo_early = {
+	trigger = {
+		always = yes
+	}
+	rgo_output = 0.3
+}
+
+#Prestige techs assim bonus
+assim_tech_one = {
+	trigger = {
+		has_country_flag = classicism_n_early_romanticism
+	}
+	global_assimilation_rate = 0.25
+}
+assim_tech_two = {
+	trigger = {
+		has_country_flag = romanticism
+	}
+	global_assimilation_rate = 0.25
+}
+assim_tech_three = {
+	trigger = {
+		has_country_flag = realism
+	}
+	global_assimilation_rate = 0.25
+}
+assim_tech_four = {
+	trigger = {
+		has_country_flag = impressionism
+	}
+	global_assimilation_rate = 0.25
+}
+assim_tech_five = {
+	trigger = {
+		has_country_flag = expressionism
+	}
+	global_assimilation_rate = 0.25
+}
+assim_tech_six = {
+	trigger = {
+		has_country_flag = mass_culture_n_the_avant_garde
+	}
+	global_assimilation_rate = 0.25
+}
+
+#Commerce techs max tariff
+no_standard = {
+	trigger = {
+		has_country_flag = no_standard
+	}
+	max_tariff = 0.05
+}
+ad_hoc_money_bill_printing = {
+	trigger = {
+		has_country_flag = ad_hoc_money_bill_printing
+	}
+	max_tariff = 0.05
+}
+private_bank_money_bill_printing = {
+	trigger = {
+		has_country_flag = private_bank_money_bill_printing
+	}
+	max_tariff = 0.05
+}
+central_bank_money_bill_printing = {
+	trigger = {
+		has_country_flag = central_bank_money_bill_printing
+	}
+	max_tariff = 0.05
+}
+modern_central_bank_system = {
+	trigger = {
+		has_country_flag = modern_central_bank_system
+	}
+	max_tariff = 0.05
+}
+market_determined_exchange_rates = {
+	trigger = {
+		has_country_flag = market_determined_exchange_rates
+	}
+	max_tariff = 0.05
+}
+
+
+
+#backend
+banker = {
+	trigger = {
+		has_country_flag = bankland
+	}
+	prestige = -9999
+	research_points_modifier = -1
+	research_points = -15
+}
+
+#ai help
+ai_tax = {
+	trigger = {
+		ai = yes
+	}
+	icon = 9
+	min_tax = 0.99
+}
+ai_tariffs = {
+	trigger = {
+		ai = yes
+	}
+	icon = 9
+	min_tariff = 0.5
+}
