@@ -1,28 +1,32 @@
-sprite = 1
-color = { 11 40 93 }
+sprite = 4
+color = { 18 129 10 }
 strata = rich
 state_capital_only = yes
 
+#demote_migrant = yes
+
 rebel =
 {
-	cavalry = 0.1
-	artillery = 0
-	cuirassier = 0.1
-	dragoon = 0.1
-	guard = 0.6
-	hussar = 0.1
-	infantry = 0
+	cavalry = 0
+	artillery = 0.1
+	cuirassier = 0
+	dragoon = 0
+	guard = 0.3
+	hussar = 0
+	infantry = 0.6
 	irregular = 0
 }
 
+can_build = yes
+
 everyday_needs = {
-	coal = 1
-	paper = 10
-	luxury_clothes = 3
-	luxury_furniture = 3
-	wine = 10
-	tobacco = 10 
-	coffee = 5
+	coal = 20
+	paper = 20
+	luxury_clothes = 20
+	luxury_furniture = 20
+	wine = 20
+	tobacco = 20 
+	coffee = 20
 }
 
 life_needs = {
@@ -35,12 +39,14 @@ life_needs = {
 
 
 luxury_needs = {
-	opium = 10
-	telephones = 20
-	automobiles = 15
+	opium = 20
+	oil = 10
+	rubber = 10
+	telephones = 45
+	automobiles = 35
 	aeroplanes = 5
-	radio = 20
-	fuel = 10
+	radio = 45
+	fuel = 30
 	ammunition = 1 
 	small_arms = 1 
 	clipper_convoy = 2
@@ -102,7 +108,7 @@ country_migration_target =
 				}
 			}
 		}
-	}
+	}	
 }
 
 migration_target =
@@ -116,12 +122,10 @@ migration_target =
 			has_factories = no
 			}
 	}
-	
 	modifier = {
 		factor = 1.2
 		total_pops = 150000
-	}
-
+	}	
 	modifier = {
 		factor = 1.2
 		total_pops = 250000
@@ -133,7 +137,7 @@ migration_target =
 	modifier = {
 		factor = 1.2
 		total_pops = 750000
-	}
+	}	
 	modifier = {
 		factor = 0
 					AND = {
@@ -212,48 +216,35 @@ migration_target =
 
 promote_to =
 {
-
-	capitalists = 
-	{
-		factor = 0.01
-		modifier = {
-			factor = -100
-			NOT = { everyday_needs = 0.5 }
-			#NOT = { literacy = 0.55 }
-		}
-		modifier = {
-			factor = 50
-			everyday_needs = 0.5
-			#literacy = 0.55
-		}
-	}
-	aristocrats = {
-		factor = 0.01
-		modifier = {
-			factor = 50
-			always = yes
-		}
-	}
+	
 	officers = {
 		factor = 0.01
 		modifier = {
 			factor = -100
 			NOT = { everyday_needs = 0.5 }
 			NOT = { literacy = 0.55 }
-			state_scope = { officers = 0.002 }
+			country = { officers = 0.002 }
+		}
+		modifier = {
+			factor = -100
+			NOT = { state_scope = { capitalists = 0.0005 } }
 		}
 		modifier = {
 			factor = 50
 			everyday_needs = 0.5
 			literacy = 0.55
-			NOT = { state_scope = { officers = 0.002 } }
+			NOT = { country = { officers = 0.002 } }
 		}
 	} 
 	farmers = { #and labourers
 		factor = 0.01
 		modifier = {
 			factor = -100
-			location = { work_available = { worker = craftsmen } } ## why did they do it this way?? you could just have work_availabe = POP instead of work_available = { worker = POP }! in fact, you shouldnt even really need the location = {}, since what else could you be talking about, but that is more excusable
+			location = { work_available = { worker = craftsmen } }
+		}
+		modifier = {
+			factor = -100
+			NOT = { state_scope = { capitalists = 0.0005 } }
 		}
 		modifier = {
 			factor = -100
@@ -272,6 +263,10 @@ promote_to =
 		}
 		modifier = {
 			factor = -100
+			NOT = { state_scope = { capitalists = 0.0005 } }
+		}
+		modifier = {
+			factor = -100
 			NOT = { location = { work_available = { worker = craftsmen } } }
 		}
 		modifier = {
@@ -279,7 +274,7 @@ promote_to =
 			NOT = { everyday_needs = 0.5}
 		}
 	}
-
+	
 }
 
 
@@ -346,7 +341,7 @@ ideologies = {
 	}
 	
 	reactionary = {
-		factor = 1.1
+		factor = 1
 		modifier = {
 			factor = 0.5
 			not = { militancy = 6 }
@@ -427,22 +422,6 @@ ideologies = {
 		}
 		modifier = {
 			factor = 1.1
-			NOT = { militancy = 4 }
-		}
-		modifier = {
-			factor = 1.1
-			NOT = { militancy = 3 }
-		}
-		modifier = {
-			factor = 1.1
-			NOT = { militancy = 2 }
-		}
-		modifier = {
-			factor = 1.1
-			NOT = { militancy = 1 }
-		}
-		modifier = {
-			factor = 1.1
 			NOT = { consciousness = 4 }
 		}
 		modifier = {
@@ -458,7 +437,7 @@ ideologies = {
 			NOT = { consciousness = 1 }
 		}
 		modifier = {
-			factor = 1.5
+			factor = 1.25
 			luxury_needs = 1
 		}		
 		modifier = {
@@ -504,7 +483,7 @@ ideologies = {
 	}
 
 	socialist = {
-		factor = 1
+		factor = 0.9
 		modifier = {
 			factor = 1.1
 			nationalvalue = nv_equality
@@ -609,7 +588,7 @@ ideologies = {
 	}
 
 	communist = {
-		factor = 1
+		factor = 0.8
 		modifier = {
 			factor = 0.1
 			NOT = { militancy = 6 }
@@ -660,7 +639,7 @@ ideologies = {
 		}
 	}
 	liberal = {
-		factor = 1.1
+		factor = 1.2
 		modifier = {
 			factor = 1.2
 			consciousness = 9 
@@ -822,4 +801,3 @@ ideologies = {
 		}
 	}
 }
-
